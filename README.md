@@ -1,2 +1,3 @@
-# intelagir-research-group.github.io
-Official WebSite of the IntelAgir Research Group
+# IntelAgir Research Group
+
+Official website of the IntelAgir Research Group - UTFPR - Francisco Beltrão
