@@ -6,33 +6,26 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://s2-group.github.io" 
+url: "https://intelagir-research-group.github.io" 
 baseurl: ""
 
 # Name of website
-title: "Software and Sustainability"
+title: "Researching with Intelligence"
 
 # Short description of your site
-rss-description: "S2 Research Group • Vrije Universiteit Amsterdam"
+rss-description: "IntelAgir Research Group • UTFPR - Francisco Beltrão - Brazil"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About us: "pages/about"
-  Team: "pages/team" 
-  Teaching:
-    - Courses: "pages/courses" 
-    - Theses: "pages/theses"
-    - Alumni: "pages/alumni" 
+  Team: "pages/team"  
   Our research:
     - Publications: "pages/publications" 
     - Projects: "pages/projects"
-    - Green Lab: "pages/greenlab" 
     - Talks: "pages/talks"
   Software: "pages/software"
-  Awards: "pages/awards"
-  Our talks: "pages/ourtalks"
   Contact: "pages/contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -42,7 +35,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /assets/img/S2_logo.png
+title-img: /assets/img/logo.png
 
 # --- Background colour/image options --- #
 
@@ -50,16 +43,16 @@ title-img: /assets/img/S2_logo.png
 
 #00FF00
 
-navbar-col: "#000000"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#00FF00"
-navbar-children-col: "#000000"
+navbar-children-col: "#FFFFFF"
 navbar-border-col: "#00FF00"
-page-col: "#000000"
-text-col: "#FFFFFF"
+page-col: "#FFFFFF"
+text-col: "#000000"
 link-col: "#00FF00"
 hover-col: "#00FF00"
 footer-col: "#000000"
-footer-text-col: "#FFFFFF"
+footer-text-col: "#000000"
 footer-link-col: "#00FF00"
 footer-border-col: "#00FF00"
 
@@ -145,7 +138,7 @@ site-js:
 # --- Footer options --- #
 
 # Your name to show in the footer
-author: "S2 Research Group • Vrije Universiteit Amsterdam"
+author: "IntelAgir • Federal University of Technology, Paraná"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -155,8 +148,8 @@ social-network-links:
   rss: true
   # email: "someone@example.com"
   # facebook: daattali
-  github: s2-group
-  twitter: s2_group
+  github: intelagir-research-group
+  twitter: michelalbonico
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -174,7 +167,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
@@ -197,7 +190,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
