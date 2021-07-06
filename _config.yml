@@ -146,7 +146,7 @@ author: "IntelAgir • Federal University of Technology, Paraná"
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  # email: "someone@example.com"
+  email: "michelalbonico@utfpr.edu.br"
   # facebook: daattali
   github: intelagir-research-group
   twitter: michelalbonico
