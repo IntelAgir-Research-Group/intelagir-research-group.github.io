@@ -44,17 +44,17 @@ title-img: /assets/img/logo.png
 #00FF00
 
 navbar-col: "#FFFFFF"
-navbar-text-col: "#00FF00"
+navbar-text-col: "#c0fcfc"
 navbar-children-col: "#FFFFFF"
-navbar-border-col: "#00FF00"
+navbar-border-col: "#c0fcfc"
 page-col: "#FFFFFF"
 text-col: "#000000"
-link-col: "#00FF00"
-hover-col: "#00FF00"
+link-col: "#c0fcfc"
+hover-col: "#c0fcfc"
 footer-col: "#000000"
 footer-text-col: "#000000"
-footer-link-col: "#00FF00"
-footer-border-col: "#00FF00"
+footer-link-col: "#c0fcfc"
+footer-border-col: "#c0fcfc"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
