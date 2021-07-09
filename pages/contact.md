@@ -8,14 +8,14 @@ title: Contact
 	<div class="column">
       <h3>Information</h3>
       	<h5>Phone</h5> 
-		  <p>+55 (46) 3520 - 2600</p>
+		  +55 (46) 3520 - 2600
 		<h5>Email</h5> 
-		  <p>colin-fb@utfpr.edu.br</p>
+		  colin-fb@utfpr.edu.br
 	</div>
 	<div class="columm">
 	 <h3>Where we are</h3>
-	 	<p>UTFPR - Universidade Tecnológica Federal do Paraná  
-	 	CAMPUS FRANCISCO BELTRÃO Linha Santa Bárbara s/n  
+	 	<p>UTFPR - Universidade Tecnológica Federal do Paraná<br>  
+	 	CAMPUS FRANCISCO BELTRÃO Linha Santa Bárbara s/n<br> 
 	 	CEP 85601-970 - Caixa Postal 135 - Francisco Beltrão - PR - Brasil</p>
 	</div>
 </div>
