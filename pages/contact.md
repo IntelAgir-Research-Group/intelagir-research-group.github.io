@@ -12,9 +12,9 @@ title: Contact
   </div>
   <div class="column">
     <h3>Where we are</h3>
-	UTFPR - Universidade Tecnológica Federal do Paraná
-    <br>CAMPUS FRANCISCO BELTRÃO Linha Santa Bárbara s/n
-	<br>CEP 85601-970 - Caixa Postal 135 - Francisco Beltrão - PR - Brasil
+		<p>UTFPR - Universidade Tecnológica Federal do Paraná</p>
+		<p>CAMPUS FRANCISCO BELTRÃO Linha Santa Bárbara s/n</p>
+		<p>CEP 85601-970 - Caixa Postal 135 - Francisco Beltrão - PR - Brasil</p>
 </div>
 
 
