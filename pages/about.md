@@ -4,7 +4,7 @@ title: About us
 <!-- subtitle: X  -->
 ---
 
-We carry out research in software engineering and software architecture in general, and specifically on their socio-technical and environmental sustainability. Software and sustainability play a key role in modern society. Europe focuses on sustainability and innovation more than ever. Our focus is on devising systematic, disciplined, and quantifiable approaches for designing, developing, and maintaining complex software intensive systems.
+We carry out studies to support architectural software concepts in the area of Internet of Things (IoT), through data science we structure our research and apply scientific knowledge in the development of sustainable technologies. The Brazil has a society with critical elaboration capacity in face of the adoption of new technologies therefore, presenting a scientific basis, technical capacity and results are principles to develop and maintain software systems.
 
 ## Focus
 Our **focus** is on the following scientific areas of interest:
