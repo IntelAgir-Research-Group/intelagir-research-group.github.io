@@ -3,8 +3,10 @@ layout: page
 title: Research Projects
 ---
 
+TBA
 <!-- subtitle: X  -->
 
+<!--
 # Ongoing research projects 
 <br>
 <div class="row ">
@@ -145,4 +147,5 @@ Architecture reconstruction is the process by which architectural views of an im
 </div></div>
 </div>
 </div>
+-->
 
