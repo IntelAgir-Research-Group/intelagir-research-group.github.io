@@ -24,7 +24,7 @@ navbar-links:
   Our research:
     - Publications: "pages/publications" 
     - Projects: "pages/projects"
-    - Talks: "pages/talks"
+#    - Talks: "pages/talks"
   Software: "pages/software"
   Contact: "pages/contact"
 
