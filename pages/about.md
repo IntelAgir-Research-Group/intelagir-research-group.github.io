@@ -4,6 +4,9 @@ title: About us
 <!-- subtitle: X  -->
 ---
 
+TBA
+
+<!--
 We carry out studies to support architectural software concepts in the area of Internet of Things (IoT), through data science we structure our research and apply scientific knowledge in the development of sustainable technologies. The Brazil has a society with critical elaboration capacity in face of the adoption of new technologies therefore, presenting a scientific basis, technical capacity and results are principles to develop and maintain software systems.
 
 ## Focus
@@ -38,6 +41,8 @@ Our strength is the balance between **scientific quality** and **industrial rele
   - Smart city and digital society
   - Robotics software
   - Cloud based software
+
+-->
 
 **Academic partners**
   - [Software Engineering Institute at CMU, USA](https://www.sei.cmu.edu){:target="_blank"}
