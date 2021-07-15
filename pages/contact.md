@@ -7,11 +7,13 @@ title: Contact
 <div class="text">
 	<div class="column">
       <h3>Information</h3>
-      	<h5>Phone</h5> 
+      	<h4>Phone</h4> 
 		  +55 (46) 3520 - 2600
-	<h5>Leaders</h5>
+	<br>
+	<h4>Leaders</h4>
 		  Michel Albonico / Paulo Junior Varela
-	<h5>Email</h5> 
+	<br>
+	<h4>Email</h4> 
 		  michelalbonico@utfpr.edu.br / paulovarela@utfpr.edu.br
 	</div>
 	<div class="columm">
