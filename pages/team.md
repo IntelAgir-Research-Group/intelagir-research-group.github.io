@@ -5,7 +5,7 @@ title: Team
 team:
   - name: Dr. Michel Albonico
     img: /img/people/michel.jpeg
-    desc: Head of the IntelAgir / Adjunct Professore
+    desc: Head of the IntelAgir / Adjunct Professor
     website: https://michelalbonico.github.io/
     url: https://michelalbonico.github.io/
     github: https://github.com/michelalbonico
