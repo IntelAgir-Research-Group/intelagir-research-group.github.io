@@ -5,7 +5,13 @@ title: Our software
 
 <!-- subtitle: X  -->
 
-TBA
+In the following you can find the main software (open-source) developed by this Research Group in collaboration with our undergraduated students, and external people.
+
+## OiArduBot
+This is a language that we created after the [Portugol](http://lite.acad.univali.br/portugol/), which allows the students to learn programming in a robotics-based environment/case study. It is a midterm between block languages and high-level programming, such as the one for Arduino. Thus, the student has a smooth experience while transiting through/programming evolves. The current version is still unstable since it has been just released. Our plan is to put it in production by the beginning of next year (2022).
+
+GitHub: [OiArduBot](https://github.com/IntelAgir-Research-Group/OiArduBot)
+
 
 <!--
 
