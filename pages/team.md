@@ -40,7 +40,7 @@ team:
 
 # Students
 - [Juliano Soares dos Santos	](#)
-- [Bruno Cardoso](#)
+- [Leonardo Pilatti dal Puppo](https://www.linkedin.com/in/leonardo-pilatti-3b41581ab/?originalSubdomain=br)
 - [Gustavo Henrique Beltrani Slomski](#)
 - [Lucas Augusto Peruffo](#)
 - [João Lucas Varela de Assis](#)
@@ -51,6 +51,7 @@ team:
 # Former Members
 - [Marlon Henrique Scalabrin](#)
 - [Rodrigo Tomaz Pagno](#)
+- [Bruno Cardoso](#)
 
 # Guests
 - [Rosaine Fiorio Semler](https://www.linkedin.com/in/rosaine-semler/?originalSubdomain=de)
