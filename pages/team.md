@@ -49,9 +49,9 @@ team:
 - [Jhonnatan Ricardo Semler](#)
 
 # Former Members
-- [Marlon Henrique Scalabrin](#)
-- [Rodrigo Tomaz Pagno](#)
-- [Bruno Cardoso](#)
+- [Marlon Henrique Scalabrin](Professor)
+- [Rodrigo Tomaz Pagno](External Collaborator)
+- [Bruno Cardoso](Student)
 
 # Guests
 - [Rosaine Fiorio Semler](https://www.linkedin.com/in/rosaine-semler/?originalSubdomain=de)
