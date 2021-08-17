@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IntelAgir Collaborator Goes to Amsterdam for Collaboration
+title: IntelAgir Collaborator Meets S2 Group in Amsterdam
 tags: [news]
 comments: true
 ---
