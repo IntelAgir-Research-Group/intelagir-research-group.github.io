@@ -3,7 +3,8 @@ layout: page
 title: Research Projects
 ---
 
-TBA
+Sorry, we are still working on this page. Soon, you will be able to see all the projects that are going on.
+
 <!-- subtitle: X  -->
 
 <!--
