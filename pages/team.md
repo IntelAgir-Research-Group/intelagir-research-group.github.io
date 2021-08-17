@@ -11,27 +11,27 @@ team:
     github: https://github.com/michelalbonico
     twitter: https://twitter.com/michelalbonico
   - name: Dr. Paulo Junior Varela
-    img: /img/people/none.jpeg
+    img: /img/people/varela.jpeg
     desc: Adjunct Professor
     website: #
     url: #
   - name: Dr. Adair José Rohling
-    img: /img/people/none.jpeg
+    img: /img/people/noimage.jpeg
     desc: Adjunct Professor
     website: #
     url: #
   - name: Dr. Lindomar Subtil de Oliveira
-    img: #
+    img: /img/people/noimage.jpeg
     desc: Adjunct Professor
     website: #
     url: #
   - name: Dr. Flávio de Almeida e Silva
-    img: /img/people/none.jpeg
+    img: /img/people/flavio.jpeg
     desc: Adjunct Professor
     website: #
     url: #
-  - name: Me. Wellton Costa de Oliveira
-    img: /img/people/none.jpeg
+  - name: Ms. Wellton Costa de Oliveira
+    img: /img/people/noimage.jpeg
     desc: Adjunct Professor
     website: #
     url: #
