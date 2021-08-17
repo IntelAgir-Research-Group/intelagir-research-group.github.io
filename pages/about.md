@@ -15,7 +15,7 @@ The IntelAgir Research Group is composed of a few professors and undergraduate s
 
 We also focus on industrial-relevant projects, where some of the team members transit in the startup entrepreneurs' environment.
 
-Finally, we maintain collaboration with researchers in Brazilian and international universities.
+Finally, we maintain collaboration with researchers in Brazilian and international universities. If you want to collaborate, please send us an [e-mail](mailto://michelalbonico@utfpr.edu.br).
 
 <!--
 We carry out studies to support architectural software concepts in the area of Internet of Things (IoT), through data science we structure our research and apply scientific knowledge in the development of sustainable technologies. The Brazil has a society with critical elaboration capacity in face of the adoption of new technologies therefore, presenting a scientific basis, technical capacity and results are principles to develop and maintain software systems.
