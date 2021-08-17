@@ -4,7 +4,18 @@ title: About us
 <!-- subtitle: X  -->
 ---
 
-TBA
+The IntelAgir Research Group is composed of a few professors and undergraduate students (we still do not have a Master/Doctorate program on the Campus). Our goal is to apply some intelligence and automation in multiple domain areas, including:
+
+  - Smart Things in General (especially Smart City)
+  - Robotics Software
+  - Cloud-based Software
+  - Natural Language Processing
+  - Open Innovation
+  - Gamification
+
+We also focus on industrial-relevant projects, where some of the team members transit in the startup entrepreneurs' environment.
+
+Finally, we maintain collaboration with researchers in Brazilian and international universities.
 
 <!--
 We carry out studies to support architectural software concepts in the area of Internet of Things (IoT), through data science we structure our research and apply scientific knowledge in the development of sustainable technologies. The Brazil has a society with critical elaboration capacity in face of the adoption of new technologies therefore, presenting a scientific basis, technical capacity and results are principles to develop and maintain software systems.
