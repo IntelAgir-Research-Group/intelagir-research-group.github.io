@@ -34,6 +34,14 @@ publications:
     year: 2017
     type: conference
     
+  - title: "A DSL-based approach for elasticity testing of cloud systems"
+    authors: M Albonico, A Benelallam, JM Mottu, G Sunyé
+    venue: "DSM 2016: Proceedings of the International Workshop on Domain-Specific Modeling October 2016 Pages 8–14"
+    doi: https://doi.org/10.1145/3023147.3023149
+    url: https://hal.archives-ouvertes.fr/hal-01437137/file/DSM_2016_paper_6-SUBMISSION.pdf
+    year: 2016
+    type: conference
+    
 ---
 
 All the other research will be added soon!
