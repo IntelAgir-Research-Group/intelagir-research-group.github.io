@@ -24,7 +24,24 @@ publications:
     doi: https://ieeexplore.ieee.org/document/8489704
     url: #
     year: 2018
-    type: conference 
+    type: conference
+    
+    title: "Making cloud-based systems elasticity testing reproducible"
+    authors: M Albonico, JM Mottu, G Sunyé, F Alvares
+    venue: "7th International Conference on Cloud Computing and Services Science"
+    doi: https://www.scitepress.org/Link.aspx?doi=10.5220/0006308905230530
+    url: https://hal.inria.fr/hal-01526274/file/sac_to_closer.pdf
+    year: 2017
+    type: conference
+    
+    title: ""
+    authors: 
+    venue: ""
+    doi: 
+    url: #
+    year: 
+    type: conference
+    
 ---
 
 All the other research will be added soon!
