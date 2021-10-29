@@ -34,14 +34,6 @@ publications:
     year: 2017
     type: conference
     
-    title: ""
-    authors: 
-    venue: ""
-    doi: 
-    url: #
-    year: 
-    type: conference
-    
 ---
 
 All the other research will be added soon!
