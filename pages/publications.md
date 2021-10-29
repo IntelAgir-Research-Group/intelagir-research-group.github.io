@@ -21,7 +21,7 @@ publications:
   - title: "A Computational Approach for Authorship Attribution on Multiple Languages"
     authors: Paulo J. Varela, Michel Albonico, Edson J. R. Justino, Flávio Bortolozzi
     venue: "2018 International Joint Conference on Neural Networks (IJCNN)"
-    doi: 10.1109/IJCNN.2018.8489704
+    doi: https://doi.org/10.1109/IJCNN.2018.8489704
     url: 
     year: 2018
     type: conference 
