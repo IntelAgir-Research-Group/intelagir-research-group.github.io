@@ -30,7 +30,7 @@ publications:
     authors: M Albonico, JM Mottu, G Sunyé, F Alvares
     venue: "7th International Conference on Cloud Computing and Services Science"
     doi: https://www.scitepress.org/Link.aspx?doi=10.5220/0006308905230530
-    url: https://hal.inria.fr/hal-01526274/file/sac_to_closer.pdf
+    url: #
     year: 2017
     type: conference
     
