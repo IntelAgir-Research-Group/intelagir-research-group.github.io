@@ -9,7 +9,6 @@ publications:
     url: https://arxiv.org/pdf/2103.13762.pdf
     year: 2021
     type: conference
-    
   - title: "Mining Evidences of Internet of Robotic Things (IoRT) Software from Open Source Projects"
     authors: Michel Albonico, Adair José Rohling, Juliano Soares, Paulo Júnior Varela
     venue: "15th Brazilian Symposium on Software Components, Architectures, and Reuse"
