@@ -9,6 +9,7 @@ publications:
     url: https://arxiv.org/pdf/2103.13762.pdf
     year: 2021
     type: conference
+    
   - title: "Mining Evidences of Internet of Robotic Things (IoRT) Software from Open Source Projects"
     authors: Michel Albonico, Adair José Rohling, Juliano Soares, Paulo Júnior Varela
     venue: "15th Brazilian Symposium on Software Components, Architectures, and Reuse"
@@ -21,7 +22,7 @@ publications:
     authors: Paulo J. Varela, Michel Albonico, Edson J. R. Justino, Flávio Bortolozzi
     venue: "2018 International Joint Conference on Neural Networks (IJCNN)"
     doi: https://ieeexplore.ieee.org/document/8489704
-    url: 
+    url: #
     year: 2018
     type: conference 
 ---
