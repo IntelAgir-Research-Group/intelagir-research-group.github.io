@@ -82,6 +82,14 @@ publications:
     year: 2017
     type: conference
     
+  - title: "A DSL-based Approach for Elasticity Testing of Cloud Systems"
+    authors: Michel Albonico, Amine Benelallam, Jean-Marie Mottu, Gerson Sunyé
+    venue: ""
+    doi: # 
+    url: https://www.archives-ouvertes.fr/hal-01437137/document
+    year: 2017
+    type: conference
+    
   - title: "A DSL-based approach for elasticity testing of cloud systems"
     authors: M Albonico, A Benelallam, JM Mottu, G Sunyé
     venue: "DSM 2016: Proceedings of the International Workshop on Domain-Specific Modeling"
@@ -93,14 +101,34 @@ publications:
   - title: "Automated workload generation for testing elastic web applications"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
     venue: ""
-    doi: 
+    doi: #
     url: https://hal.archives-ouvertes.fr/hal-01317723/document
     year: 2016
     type: conference
     
-  
+  - title: "Controlling the Elasticity of Web Applications on Cloud Computing-Extended Version"
+    authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
+    venue: ""
+    doi: #
+    url: https://hal.archives-ouvertes.fr/hal-01317715/document
+    year: 2016
+    type: conference
     
+  - title: "Poster: A Procedure for Testing Applications Through Cloud Computing Elasticity"
+    authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
+    venue: "JDoc Day-ED STIM"
+    doi: #
+    url: http://hal.univ-nantes.fr/hal-01317543v1
+    year: 2016
+    type: conference
     
+  - title: "Testing MapReduce-Based Systems"
+    authors: João Eugenio Marynowski, Michel Albonico, Eduardo Cunha de Almeida, Gerson Sunyé
+    venue: ""
+    doi: #
+    url: https://arxiv.org/pdf/1209.6580.pdf
+    year: 2012
+    type: conference
     
 ---
 
