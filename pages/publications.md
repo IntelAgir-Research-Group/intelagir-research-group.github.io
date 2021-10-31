@@ -42,6 +42,14 @@ publications:
     year: 2019
     type: conference
     
+  - title: "Towards Short Test Sequences for Performance Assessment of Elastic Cloud-based Systems."
+    authors: Michel Albonico and Paulo Varela
+    venue: "CLOSER"
+    doi: #
+    url: https://www.scitepress.org/Papers/2019/77585/77585.pdf
+    year: 2019
+    type: conference
+    
   - title: "A Computational Approach for Authorship Attribution on Multiple Languages"
     authors: Paulo J. Varela, Michel Albonico, Edson J. R. Justino, Flávio Bortolozzi
     venue: "2018 International Joint Conference on Neural Networks (IJCNN)"
@@ -64,6 +72,14 @@ publications:
     doi: https://doi.org/10.1109/CLOUD.2017.56
     url: https://hal.inria.fr/hal-01526275/document
     year: 2017 
+    type: conference
+    
+  - title: "Controlling Cloud-Based Systems for Elasticity Test Reproduction"
+    authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé, Frederico Alvares
+    venue: "International Conference on Cloud Computing and Services Science"
+    doi: https://doi.org/10.1007/978-3-319-94959-8_11
+    url: #
+    year: 2017
     type: conference
     
   - title: "A DSL-based approach for elasticity testing of cloud systems"
