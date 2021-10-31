@@ -159,6 +159,14 @@ publications:
     year: 2019
     type: conference
     
+  - title: "Inovação social: Análise em habitats de inovação"
+    authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Maria Luiza Kock, LS Oliveira
+    venue: "Anais do XLIII ENCONTRO DA ANPAD-ENANPAD"
+    doi: #
+    url: http://www.anpad.org.br/abrir_pdf.php?e=MjY0Njk=
+    year: 2019
+    type: conference
+    
   - title: "Critical success factors for open innovation implementation"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Echeveste, Marcelo Nogueira Cortimiglia 
     venue: "Journal of Organizational Change Management"
@@ -183,6 +191,14 @@ publications:
     year: 2016
     type: conference
     
+  - title: "  Análise bibliométrica e principais dimensões da literatura sobre open innovation"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, Andriele de Prá Carvalho 
+    venue: "International Journal of Knowledge Engineering and Management (IJKEM)"
+    doi: #
+    url: http://stat.intraducoes.incubadora.ufsc.br/index.php/IJKEM/article/view/3815/4403
+    year: 2016
+    type: conference
+    
   - title: "Implantação e avaliação das Boas Práticas de Fabricação–BPF: estudo de caso"
     authors: Marcia Regina Sinhorini, Lindomar Subtil de OLIVEIRA, Alexandre da Trindade Alfaro 
     venue: "Revista do Instituto Adolfo Lutz"
@@ -196,6 +212,24 @@ publications:
     venue: "Revista Competitividade e Sustentabilidade"
     doi: https://doi.org/10.48075/comsus.v2i2.13866
     url: #
+    year: 2015
+    type: conference
+    
+  - title: "Plano de ação para produção e consumo sustentável no Brasil"
+    authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Júlio Henrique Ely Zibetti, Renata Tilemann Facó,
+    Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber ten Caten
+    venue: "REVISTA GEINTEC-GESTAO INOVACAO E TECNOLOGIAS"
+    doi: #
+    url: https://revistageintec.net/index.php/revista/article/view/635/589
+    year: 2015
+    type: conference
+    
+  - title: "Análise do Plano de Ação para Produção e do Consumo Sustentável no Brasil"
+    authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Julio Henrique Ely Zibetti, Renata Tilemann Facó,
+    Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber Ten Caten 
+    venue: "Revista GEINTEC: Gestão, Inovação e Tecnologias. São Cristóvão, SE. Vol. 5,"
+    doi: #
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/172604/001059341.pdf?sequence=1
     year: 2015
     type: conference
     
@@ -222,6 +256,14 @@ publications:
     url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
     year: 2006
     type: conference
+    
+  - title: "A flexibilidade do sistema erp frente as mudanças organizacionais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Publicatio UEPG: Ciências Humanas, Linguistica, Letras e Artes"
+    doi: #
+    url: https://www.revistas.uepg.br/index.php/humanas/article/view/557/556
+    year: 2006
+    type: conference
       
   - title: "Adaptando o sistema ERP ao crescimento organizacional: um estudo de caso propondo as soluções para a mudança"
     authors: Lindomar Subtil de OLIVEIRA, Kazuo Hatakeyama, Daniele Chrusciak, Luciano Scandelari 
@@ -231,6 +273,21 @@ publications:
     year: 2005
     type: conference
     
+  - title: ""
+    authors: 
+    venue: ""
+    doi: 
+    url: #
+    year: 
+    type: conference
+    
+  - title: ""
+    authors: 
+    venue: ""
+    doi: 
+    url: #
+    year: 
+    type: conference
 ---
 
 All the other research will be added soon!
