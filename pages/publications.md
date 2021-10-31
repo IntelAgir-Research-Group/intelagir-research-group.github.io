@@ -135,11 +135,28 @@ publications:
     
     
     
+    
+  - title: "A SUSTENTABILIDADE NA VISÃO DO GESTOR E DOS COLABORADORES: UM ESTUDO CORRELACIONAL"
+    authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes
+    venue: "Revista Livre de Sustentabilidade e Empreendedorismo"
+    doi: # 
+    url: http://relise.eco.br/index.php/relise/article/view/500/537 
+    year: 2021
+    type: conference
+    
   - title: "Inovação social em habitats de inovação: estudo de caso em um hotel tecnológico do Paraná"
     authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Lindomar Subtil de Oliveira
     venue: "Revista Alcance"
     doi: #
     url: https://www.redalyc.org/jatsRepo/4777/477764617005/477764617005.pdf
+    year: 2020
+    type: conference
+    
+  - title: "Innovation diagnosis in technology companies of a regional innovation system"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Andriele De Prá Carvalho, Melaine Camarotto, Paula Zarelli
+    venue: "Brazilian Journal of Operations & Production Management"
+    doi: https://doi.org/10.14488/BJOPM.2020.032
+    url: https://bjopm.emnuvens.com.br/bjopm/article/view/997/940
     year: 2020
     type: conference
     
@@ -182,6 +199,14 @@ publications:
     url: #
     year: 2017
     type: conference
+    
+  - title: "Um processo para implementação da estratégia open innovation em empresas de sistemas regionais de inovação"
+    authors: Lindomar Subtil de Oliveira
+    venue: ""
+    doi: #
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/169823/001050605.pdf?sequence=1
+    year: 2017
+    type: conference
    
   - title: "The effect of innovation activities on innovation outputs in the Brazilian industry: Market-orientation vs. technology-acquisition strategies"
     authors: Alejandro Germán Frank, Marcelo Nogueira Cortimiglia, José Luis Duarte Ribeiro, Lindomar Subtil de Oliveira 
@@ -196,6 +221,30 @@ publications:
     venue: "International Journal of Knowledge Engineering and Management (IJKEM)"
     doi: #
     url: http://stat.intraducoes.incubadora.ufsc.br/index.php/IJKEM/article/view/3815/4403
+    year: 2016
+    type: conference
+    
+  - title: "GESTÃO DE REQUISITOS PARA UM PORTAL DE INOVAÇÃO ABERTA"
+    authors: Lindomar Subtil de Oliveira, Jonatas O Scherer, Manoel Nascimento, Márcia Elisa Soares Echeveste, Patrícia F Magnago
+    venue: "Sistemas & Gestão"
+    doi: https://doi.org/10.20985/1980-5160.2016.v11n1.827
+    url: #
+    year: 2016
+    type: conference
+    
+  - title: "Processo de Implementação da Open Innovation: Proposta para Empresas de Sistemas Regionais de Inovação"
+    authors: Lindomar Subtil De Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
+    venue: "Ingeniería Industrial. Actualidad y Nuevas Tendencias"
+    doi: #
+    url: https://www.redalyc.org/pdf/2150/215049679003.pdf
+    year: 2016
+    type: conference
+    
+  - title: "Identificação de requisitos para um portal de inovação aberta"
+    authors: Lindomar Subtil de Oliveira, Jonatas Ost Scherer, Manoel do Nascimento Filho, Marcia Elisa Soares Echeveste
+    venue: "Sistemas & Gestão [recurso eletrônico]. Rio de Janeiro. V. 11"
+    doi: # 
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/172643/001059291.pdf?sequence=1
     year: 2016
     type: conference
     
@@ -233,12 +282,53 @@ publications:
     year: 2015
     type: conference
     
+  - title: "ACTION PLAN ANALYSIS FOR PRODUCTION AND SUSTAINABLE CONSUMPTION IN BRAZIL"
+    authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Julio Henrique Ely Zibetti,
+    Renata Tilemann Faco, Istefani Carisio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber ten Caten
+    venue: "REVISTA GEINTEC-GESTAO INOVACAO E TECNOLOGIAS"
+    doi: #
+    url: #
+    year: 2015
+    type: conference
+    
+  - title: "Políticas públicas e os arranjos produtivos locais: direção para a competitividade e desenvolvimento econômico regional"
+    authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes, Marcelo Nogueira Cortimiglia, Marcia Elisa Soares Echeveste 
+    venue: "Semana de Engenharia de Produção Sul Americana (13.: 2013 jun. 9-11: Gramado, RS). Anais..[recurso eletrônico]. Porto Alegre: FEEng"
+    doi: #
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/196437/000903984.pdf?sequence=1
+    year: 2013
+    type: conference
+    
   - title: "Um estudo sobre a implantação de sistemas ERP: pesquisa realizada em grandes empresas industriais"
     authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
     venue: "Production"
     doi: https://doi.org/10.1590/S0103-65132012005000052
     url: https://www.scielo.br/j/prod/a/89PCXVGqZvgmDxNRFtK7yvv/?format=pdf&lang=pt
     year: 2012
+    type: conference
+    
+  - title: "A study on ERP system implementation: a survey at large industrial companies"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Production"
+    doi: #
+    url: #
+    year: 2012
+    type: conference
+    
+  - title: "A inovação tecnológica e o impacto das mudanças nos negócios: Diagnóstico comparativo entre duas empresas industriais"
+    authors:Leila Cristina Huppes FAMPER, Lindomar Subtil de Oliveira, Daniel Baccin, Kellerman AL Godarth, Marilei Martins FAMPER 
+    venue: ""
+    doi: #
+    url: http://pg.utfpr.edu.br/expout/2011/artigos/2.pdf
+    year: 2008
+    type: conference
+    
+  - title: "Os sistemas ERP’s como vantagem competitiva na integração da cadeia de suprimentos dos Aglomerados Industriais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama, Patrícia Guarnieri, Dario Eduardo A Dergint
+    venue: ""
+    doi: #
+    url: http://www.pg.utfpr.edu.br/ppgep/anais/artigos/informatica/46%20OS%20SISTEMAS%20ERP%20COMO%20VANTAG%20COMPETI%20NA%20INTEGR%20CADE%20SUPRIM.pdf
+    year: 2008
     type: conference
     
   - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP"
@@ -264,6 +354,14 @@ publications:
     url: https://www.revistas.uepg.br/index.php/humanas/article/view/557/556
     year: 2006
     type: conference
+    
+  - title: "A implantação do sistema ERP e a utilização das novas: Estudo de caso em uma empresa multinacional"
+    authors: Lindomar Subtil de Oliveira, Luiz Olívio Bortolli, Kazuo Hatakeyama
+    venue: "Anais do III Simpósio Brasileiro de Sistemas de Informação"
+    doi: https://doi.org/10.5753/sbsi.2006.14742 
+    url: #
+    year: 2006
+    type: conference
       
   - title: "Adaptando o sistema ERP ao crescimento organizacional: um estudo de caso propondo as soluções para a mudança"
     authors: Lindomar Subtil de OLIVEIRA, Kazuo Hatakeyama, Daniele Chrusciak, Luciano Scandelari 
@@ -272,7 +370,15 @@ publications:
     url: #
     year: 2005
     type: conference
-   
+    
+  - title: "Effects of Apanteles militaris (Hymenoptera, Braconidae) parasitism on development and food consumption of Mythimna unipuncta (Lepidoptera,               Noctuidae) larvae"
+    authors: V Vieira, R Vasconcelos, L Oliveira, J Tavares
+    venue: "The 6th European Congress of Entomology, Ceske Budejovice (Czech Republic), 23-29 Aug 1998"
+    doi: #
+    url: https://agris.fao.org/agris-search/search.do?recordID=CZ1999000133
+    year: 1998
+    type: conference
+    
 ---
 
 All the other research will be added soon!
