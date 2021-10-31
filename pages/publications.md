@@ -42,6 +42,14 @@ publications:
     year: 2016
     type: conference
     
+  - title: "Generating test sequences to assess the performance of elastic cloud-based systems"
+    authors: Michel Albonico, Stefano Di Alesio, Jean-Marie Mottu, Sagar Sen, Gerson Sunyé
+    venue: "2017 IEEE 10th International Conference on Cloud Computing (CLOUD)"
+    doi: https://doi.org/10.1109/CLOUD.2017.56
+    url: https://hal.inria.fr/hal-01526275/document
+    year: 2017 
+    type: conference
+    
 ---
 
 All the other research will be added soon!
