@@ -130,6 +130,117 @@ publications:
     year: 2012
     type: conference
     
----ccccc
+    
+    
+    
+    
+    
+  - title: "Inovação social em habitats de inovação: estudo de caso em um hotel tecnológico do Paraná"
+    authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Lindomar Subtil de Oliveira
+    venue: "Revista Alcance"
+    doi: #
+    url: https://www.redalyc.org/jatsRepo/4777/477764617005/477764617005.pdf
+    year: 2020
+    type: conference
+    
+  - title: "Framework proposal for open innovation implementation in SMEs of regional innovation systems"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
+    venue: "Journal of technology management & innovation"
+    doi: http://dx.doi.org/10.4067/S0718-27242019000200014 
+    url: #
+    year: 2019
+    type: conference
+    
+  - title: "Open innovation in regional innovation systems: Assessment of critical success factors for implementation in SMEs"
+    authors: Lindomar Subtil de Oliveira, Márcia E Soares Echeveste, Marcelo Nogueira Cortimiglia, Aline C Gularte
+    venue: "Journal of the Knowledge Economy"
+    doi: https://doi.org/10.1007/s13132-019-00619-y
+    url: #
+    year: 2019
+    type: conference
+    
+  - title: "Critical success factors for open innovation implementation"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Echeveste, Marcelo Nogueira Cortimiglia 
+    venue: "Journal of Organizational Change Management"
+    doi: https://doi.org/10.1108/JOCM-11-2017-0416
+    url: #
+    year: 2018
+    type: conference
+  
+  - title: "Analysis of Determinants for open innovation implementation in regional innovation systems"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, César Giovani Colini Gonçalves
+    venue: "RAI Revista de Administração e Inovação"
+    doi: https://doi.org/10.1016/j.rai.2017.03.006
+    url: #
+    year: 2017
+    type: conference
+   
+  - title: "The effect of innovation activities on innovation outputs in the Brazilian industry: Market-orientation vs. technology-acquisition strategies"
+    authors: Alejandro Germán Frank, Marcelo Nogueira Cortimiglia, José Luis Duarte Ribeiro, Lindomar Subtil de Oliveira 
+    venue: "Research Policy"
+    doi: https://doi.org/10.1016/j.respol.2015.11.011
+    url: #
+    year: 2016
+    type: conference
+    
+  - title: "Implantação e avaliação das Boas Práticas de Fabricação–BPF: estudo de caso"
+    authors: Marcia Regina Sinhorini, Lindomar Subtil de OLIVEIRA, Alexandre da Trindade Alfaro 
+    venue: "Revista do Instituto Adolfo Lutz"
+    doi: #
+    url: https://docs.bvsalud.org/biblioref/ses-sp/2015/ses-32823/ses-32823-6080.pdf
+    year: 2015
+    type: conference
+    
+  - title: "Competitividade e inovação regional"
+    authors: Andriele de Prá Carvalho, Dalcio Roberto dos Reis, Eloiza Avila de Matos, Lindomar Subtil de Oliveira
+    venue: "Revista Competitividade e Sustentabilidade"
+    doi: https://doi.org/10.48075/comsus.v2i2.13866
+    url: #
+    year: 2015
+    type: conference
+    
+  - title: "Um estudo sobre a implantação de sistemas ERP: pesquisa realizada em grandes empresas industriais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Production"
+    doi: https://doi.org/10.1590/S0103-65132012005000052
+    url: https://www.scielo.br/j/prod/a/89PCXVGqZvgmDxNRFtK7yvv/?format=pdf&lang=pt
+    year: 2012
+    type: conference
+    
+  - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP"
+    authors: LINDOMAR SUBTIL DE OLIVEIRA
+    venue: ""
+    doi: # 
+    url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
+    year: 2006
+    type: conference
+    
+  - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP. 2006. 154 f"
+    authors: Lindomar Subtil de OLIVEIRA
+    venue: "Dissertação (Mestrado em Engenharia de Produção)-Universidade Tecnológica Federal do Paraná, Ponta Grossa"
+    doi: #
+    url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
+    year: 2006
+    type: conference
+      
+  - title: "Adaptando o sistema ERP ao crescimento organizacional: um estudo de caso propondo as soluções para a mudança"
+    authors: Lindomar Subtil de OLIVEIRA, Kazuo Hatakeyama, Daniele Chrusciak, Luciano Scandelari 
+    venue: "XXV ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO. Anais. Porto Alegre"
+    doi: #
+    url: #
+    year: 2005
+    type: conference
+    
+    - title: ""
+    authors: 
+    venue: ""
+    doi: 
+    url: #
+    year: 
+    type: conference
+    
+  
+    
+---
 
 All the other research will be added soon!
