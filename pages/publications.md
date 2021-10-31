@@ -18,6 +18,22 @@ publications:
     year: 2021
     type: conference 
     
+  - title: "Authorship Attribution in Latin Languages using Stylometry"
+    authors: P Varela, Michel Albonico, E Justino, J Assis 
+    venue: "IEEE Latin America Transactions"
+    doi: https://doi.org/10.1109/TLA.2020.9082216
+    url: https://latamt.ieeer9.org/index.php/transactions/article/download/1710/452
+    year: 2020
+    type: conference
+    
+  - title: "Linguisticun: Uma Ferramenta de Auxílio ao Ensino da Língua Portuguesa e à Linguística Computacional"
+    authors: Rosaine Fiorio, Paulo Varela, Michel Albonico, Jhonnatan Ricardo Semler 
+    venue: "Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE)"
+    doi: http://dx.doi.org/10.5753/cbie.sbie.2019.11
+    url: #
+    year: 2019
+    type: conference
+    
   - title: "A Computational Approach for Authorship Attribution on Multiple Languages"
     authors: Paulo J. Varela, Michel Albonico, Edson J. R. Justino, Flávio Bortolozzi
     venue: "2018 International Joint Conference on Neural Networks (IJCNN)"
@@ -34,14 +50,6 @@ publications:
     year: 2017
     type: conference
     
-  - title: "A DSL-based approach for elasticity testing of cloud systems"
-    authors: M Albonico, A Benelallam, JM Mottu, G Sunyé
-    venue: "DSM 2016: Proceedings of the International Workshop on Domain-Specific Modeling"
-    doi: https://doi.org/10.1145/3023147.3023149
-    url: https://hal.archives-ouvertes.fr/hal-01437137/file/DSM_2016_paper_6-SUBMISSION.pdf
-    year: 2016
-    type: conference
-    
   - title: "Generating test sequences to assess the performance of elastic cloud-based systems"
     authors: Michel Albonico, Stefano Di Alesio, Jean-Marie Mottu, Sagar Sen, Gerson Sunyé
     venue: "2017 IEEE 10th International Conference on Cloud Computing (CLOUD)"
@@ -50,20 +58,12 @@ publications:
     year: 2017 
     type: conference
     
-  - title: "Authorship Attribution in Latin Languages using Stylometry"
-    authors: P Varela, Michel Albonico, E Justino, J Assis 
-    venue: "IEEE Latin America Transactions"
-    doi: https://doi.org/10.1109/TLA.2020.9082216
-    url: https://latamt.ieeer9.org/index.php/transactions/article/download/1710/452
-    year: 2020
-    type: conference
-    
-  - title: "Linguisticun: Uma Ferramenta de Auxílio ao Ensino da Língua Portuguesa e à Linguística Computacional"
-    authors: Rosaine Fiorio, Paulo Varela, Michel Albonico, Jhonnatan Ricardo Semler 
-    venue: "Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE)"
-    doi: http://dx.doi.org/10.5753/cbie.sbie.2019.11
-    url: #
-    year: 2019
+  - title: "A DSL-based approach for elasticity testing of cloud systems"
+    authors: M Albonico, A Benelallam, JM Mottu, G Sunyé
+    venue: "DSM 2016: Proceedings of the International Workshop on Domain-Specific Modeling"
+    doi: https://doi.org/10.1145/3023147.3023149
+    url: https://hal.archives-ouvertes.fr/hal-01437137/file/DSM_2016_paper_6-SUBMISSION.pdf
+    year: 2016
     type: conference
     
   - title: "Automated workload generation for testing elastic web applications"
