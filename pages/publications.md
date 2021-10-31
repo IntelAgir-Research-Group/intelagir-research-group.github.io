@@ -18,6 +18,14 @@ publications:
     year: 2021
     type: conference 
     
+  - title: "Architectural Tactics for Energy-Aware Robotics Software: A Preliminary Study"
+    authors: Katerina Chinnappan, Ivano Malavolta, Grace A Lewis, Michel Albonico, Patricia Lago 
+    venue: "European Conference on Software Architecture"
+    doi: https://doi.org/10.1007/978-3-030-86044-8_11
+    url: http://www.ivanomalavolta.com/files/papers/ECSA_2021.pdf
+    year: 2021
+    type: conference
+    
   - title: "Authorship Attribution in Latin Languages using Stylometry"
     authors: P Varela, Michel Albonico, E Justino, J Assis 
     venue: "IEEE Latin America Transactions"
@@ -73,6 +81,10 @@ publications:
     url: https://hal.archives-ouvertes.fr/hal-01317723/document
     year: 2016
     type: conference
+    
+  
+    
+    
     
 ---
 
