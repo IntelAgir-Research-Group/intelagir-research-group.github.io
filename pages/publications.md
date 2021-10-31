@@ -50,6 +50,30 @@ publications:
     year: 2017 
     type: conference
     
+  - title: "Authorship Attribution in Latin Languages using Stylometry"
+    authors: P Varela, Michel Albonico, E Justino, J Assis 
+    venue: "IEEE Latin America Transactions"
+    doi: https://doi.org/10.1109/TLA.2020.9082216
+    url: https://latamt.ieeer9.org/index.php/transactions/article/download/1710/452
+    year: 2020
+    type: conference
+    
+  - title: "Linguisticun: Uma Ferramenta de Auxílio ao Ensino da Língua Portuguesa e à Linguística Computacional"
+    authors: Rosaine Fiorio, Paulo Varela, Michel Albonico, Jhonnatan Ricardo Semler 
+    venue: "Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE)"
+    doi: http://dx.doi.org/10.5753/cbie.sbie.2019.11
+    url: #
+    year: 2019
+    type: conference
+    
+  - title: "Automated workload generation for testing elastic web applications"
+    authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
+    venue: ""
+    doi: 
+    url: https://hal.archives-ouvertes.fr/hal-01317723/document
+    year: 2016
+    type: conference
+    
 ---
 
 All the other research will be added soon!
