@@ -260,5 +260,14 @@ publications:
     year: 2015
     type: conference
     
+  - title: "Plano de ação para produção e consumo sustentável no Brasil"
+    authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Júlio Henrique Ely Zibetti, Renata Tilemann Facó,
+    Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber ten Caten
+    venue: "REVISTA GEINTEC-GESTAO INOVACAO E TECNOLOGIAS"
+    doi: #
+    url: https://revistageintec.net/index.php/revista/article/view/635/589
+    year: 2015
+    type: conference
+    
 ---
 All the other research will be added soon!
