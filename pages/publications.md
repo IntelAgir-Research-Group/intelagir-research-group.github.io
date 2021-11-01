@@ -292,5 +292,13 @@ publications:
     year: 2012
     type: conference
     
+  - title: "A study on ERP system implementation: a survey at large industrial companies"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Production"
+    doi: #
+    url: #
+    year: 2012
+    type: conference
+    
 ---
 All the other research will be added soon!
