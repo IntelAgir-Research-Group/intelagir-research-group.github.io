@@ -130,8 +130,8 @@ publications:
     year: 2012
     type: conference
     
-    
-----------------------------------------------------------------------------------------------------------------------------------------------------    
+   
+   
     
     
   - title: "A SUSTENTABILIDADE NA VISÃO DO GESTOR E DOS COLABORADORES: UM ESTUDO CORRELACIONAL"
@@ -343,7 +343,7 @@ publications:
     type: conference
     
     
------------------------------------------------------------------------------------------------------------------------------------------------------------    
+   
     
     
   - title: "A reference architecture for satellite control systems"
