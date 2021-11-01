@@ -339,6 +339,34 @@ publications:
     url: #
     year: 2006
     type: conference
+    
+    
+    
+    
+    
+  - title: "A study on goals specification for systems-of-information systems: Design principles and a conceptual model"
+    authors: Valdemar V Graciano Neto, Flavio Horita, Everton Cavalcante, Adair Rohling, Jamal El-Hachem, Daniel Santos, Elisa Y Nakagawa
+    venue: "Proceedings of the XIV Brazilian Symposium on Information Systems"
+    doi: https://doi.org/10.1145/3229345.3229369 
+    url: #
+    year: 2018
+    type: conference
+    
+  - title: "A reference architecture for satellite control systems"
+    authors: Adair José Rohling, Valdemar Vicente Graciano Neto, Mauricio Gonçalves Vieira Ferreira, Walter Abrahão Dos Santos, Elisa Yumi Nakagawa
+    venue: "Innovations in Systems and Software Engineering"
+    doi: https://doi.org/10.1007/s11334-019-00322-w
+    url: #
+    year: 2019
+    type: conference
+    
+  - title: "Externalizing patterns for simulations in software engineering of systems-of-systems"
+    authors: Valdemar V Graciano Neto, Wallace Manzano, Adair José Rohling, Mauricio Gonçalves Vieira Ferreira, Tiago Volpato, Elisa Yumi Nakagawa
+    venue: "Proceedings of the 33rd Annual ACM Symposium on Applied Computing"
+    doi: https://doi.org/10.1145/3167132.3167313
+    url: http://mtc-m21c.sid.inpe.br/col/sid.inpe.br/mtc-m21c/2018/08.06.15.57/doc/graciano%20neto_externalizing.pdf
+    year: 2018
+    type: conference
  
 ---
 All the other research will be added soon!
