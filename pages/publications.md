@@ -130,6 +130,8 @@ publications:
     year: 2012
     type: conference
     
+    
+    
   - title: "A SUSTENTABILIDADE NA VISÃO DO GESTOR E DOS COLABORADORES: UM ESTUDO CORRELACIONAL"
     authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes
     venue: "Revista Livre de Sustentabilidade e Empreendedorismo"
@@ -144,6 +146,30 @@ publications:
     doi: #
     url: https://www.redalyc.org/jatsRepo/4777/477764617005/477764617005.pdf
     year: 2020
+    type: conference
+    
+  - title: "Innovation diagnosis in technology companies of a regional innovation system"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Andriele De Prá Carvalho, Melaine Camarotto, Paula Zarelli
+    venue: "Brazilian Journal of Operations & Production Management"
+    doi: https://doi.org/10.14488/BJOPM.2020.032
+    url: https://bjopm.emnuvens.com.br/bjopm/article/view/997/940
+    year: 2020
+    type: conference
+    
+  - title: "Framework proposal for open innovation implementation in SMEs of regional innovation systems"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
+    venue: "Journal of technology management & innovation"
+    doi: http://dx.doi.org/10.4067/S0718-27242019000200014 
+    url: #
+    year: 2019
+    type: conference
+    
+  - title: "Open innovation in regional innovation systems: Assessment of critical success factors for implementation in SMEs"
+    authors: Lindomar Subtil de Oliveira, Márcia E Soares Echeveste, Marcelo Nogueira Cortimiglia, Aline C Gularte
+    venue: "Journal of the Knowledge Economy"
+    doi: https://doi.org/10.1007/s13132-019-00619-y
+    url: #
+    year: 2019
     type: conference
     
 ---
