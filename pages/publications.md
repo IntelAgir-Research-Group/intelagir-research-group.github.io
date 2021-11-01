@@ -42,7 +42,7 @@ publications:
     year: 2019
     type: conference
     
-  - title: "Towards Short Test Sequences for Performance Assessment of Elastic Cloud-based Systems."
+  - title: "Towards Short Test Sequences for Performance Assessment of Elastic Cloud-based Systems"
     authors: Michel Albonico and Paulo Varela
     venue: "CLOSER"
     doi: #
@@ -84,7 +84,7 @@ publications:
     
   - title: "A DSL-based Approach for Elasticity Testing of Cloud Systems"
     authors: Michel Albonico, Amine Benelallam, Jean-Marie Mottu, Gerson Sunyé
-    venue: "n"
+    venue: ""
     doi: # 
     url: https://www.archives-ouvertes.fr/hal-01437137/document
     year: 2017
@@ -100,7 +100,7 @@ publications:
     
   - title: "Automated workload generation for testing elastic web applications"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: "n"
+    venue: ""
     doi: #
     url: https://hal.archives-ouvertes.fr/hal-01317723/document
     year: 2016
@@ -108,7 +108,7 @@ publications:
     
   - title: "Controlling the Elasticity of Web Applications on Cloud Computing-Extended Version"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: "n"
+    venue: ""
     doi: #
     url: https://hal.archives-ouvertes.fr/hal-01317715/document
     year: 2016
@@ -124,7 +124,7 @@ publications:
     
   - title: "Testing MapReduce-Based Systems"
     authors: João Eugenio Marynowski, Michel Albonico, Eduardo Cunha de Almeida, Gerson Sunyé
-    venue: "n"
+    venue: ""
     doi: #
     url: https://arxiv.org/pdf/1209.6580.pdf
     year: 2012
@@ -319,9 +319,9 @@ publications:
     
   - title: "Os sistemas ERP’s como vantagem competitiva na integração da cadeia de suprimentos dos Aglomerados Industriais"
     authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama, Patrícia Guarnieri, Dario Eduardo A Dergint
-    venue: "n"
+    venue: ""
     doi: #
-    url: http://www.pg.utfpr.edu.br/ppgep/anais/artigos/informatica/46%20OS%20SISTEMAS%20ERP%20COMO%20VANTAG%20COMPETI%20NA%20INTEGR%20CADE%20SUPRIM.pdf
+    url: #
     year: 2008
     type: conference
     
@@ -371,8 +371,6 @@ publications:
     doi: #
     url: https://agris.fao.org/agris-search/search.do?recordID=CZ1999000133
     year: 1998
-    type: conference
-    
+    type: conference   
 ---
-
 All the other research will be added soon!
