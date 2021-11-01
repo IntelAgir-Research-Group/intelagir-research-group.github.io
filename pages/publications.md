@@ -5,7 +5,7 @@ publications:
   - title: "Mining Energy-Related Practices in Robotics Software"
     authors: Michel Albonico, Ivano Malavolta, Gustavo Pinto, Emitza Guzman, Katerina Chinnappan, Patricia Lago
     venue: "18th International Conference on Mining Software Repositories (MSR)"
-    doi: 
+    doi: #
     url: https://arxiv.org/pdf/2103.13762.pdf
     year: 2021
     type: conference
@@ -84,7 +84,7 @@ publications:
     
   - title: "A DSL-based Approach for Elasticity Testing of Cloud Systems"
     authors: Michel Albonico, Amine Benelallam, Jean-Marie Mottu, Gerson Sunyé
-    venue: ""
+    venue: "n"
     doi: # 
     url: https://www.archives-ouvertes.fr/hal-01437137/document
     year: 2017
@@ -100,7 +100,7 @@ publications:
     
   - title: "Automated workload generation for testing elastic web applications"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: ""
+    venue: "n"
     doi: #
     url: https://hal.archives-ouvertes.fr/hal-01317723/document
     year: 2016
@@ -108,7 +108,7 @@ publications:
     
   - title: "Controlling the Elasticity of Web Applications on Cloud Computing-Extended Version"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: ""
+    venue: "n"
     doi: #
     url: https://hal.archives-ouvertes.fr/hal-01317715/document
     year: 2016
@@ -124,17 +124,11 @@ publications:
     
   - title: "Testing MapReduce-Based Systems"
     authors: João Eugenio Marynowski, Michel Albonico, Eduardo Cunha de Almeida, Gerson Sunyé
-    venue: ""
+    venue: "n"
     doi: #
     url: https://arxiv.org/pdf/1209.6580.pdf
     year: 2012
     type: conference
-    
-    
-    
-    
-    
-    
     
   - title: "A SUSTENTABILIDADE NA VISÃO DO GESTOR E DOS COLABORADORES: UM ESTUDO CORRELACIONAL"
     authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes
@@ -216,7 +210,7 @@ publications:
     year: 2016
     type: conference
     
-  - title: "  Análise bibliométrica e principais dimensões da literatura sobre open innovation"
+  - title: "Análise bibliométrica e principais dimensões da literatura sobre open innovation"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, Andriele de Prá Carvalho 
     venue: "International Journal of Knowledge Engineering and Management (IJKEM)"
     doi: #
@@ -325,7 +319,7 @@ publications:
     
   - title: "Os sistemas ERP’s como vantagem competitiva na integração da cadeia de suprimentos dos Aglomerados Industriais"
     authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama, Patrícia Guarnieri, Dario Eduardo A Dergint
-    venue: ""
+    venue: "n"
     doi: #
     url: http://www.pg.utfpr.edu.br/ppgep/anais/artigos/informatica/46%20OS%20SISTEMAS%20ERP%20COMO%20VANTAG%20COMPETI%20NA%20INTEGR%20CADE%20SUPRIM.pdf
     year: 2008
