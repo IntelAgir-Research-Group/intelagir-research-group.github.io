@@ -316,5 +316,21 @@ publications:
     year: 2006
     type: conference
     
+  - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP. 2006. 154 f"
+    authors: Lindomar Subtil de OLIVEIRA
+    venue: "Dissertação (Mestrado em Engenharia de Produção)-Universidade Tecnológica Federal do Paraná, Ponta Grossa"
+    doi: #
+    url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
+    year: 2006
+    type: conference
+    
+  - title: "A flexibilidade do sistema erp frente as mudanças organizacionais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Publicatio UEPG: Ciências Humanas, Linguistica, Letras e Artes"
+    doi: #
+    url: https://www.revistas.uepg.br/index.php/humanas/article/view/557/556
+    year: 2006
+    type: conference
+    
 ---
 All the other research will be added soon!
