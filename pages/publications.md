@@ -284,5 +284,69 @@ publications:
     year: 2013
     type: conference
     
+  - title: "Um estudo sobre a implantação de sistemas ERP: pesquisa realizada em grandes empresas industriais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Production"
+    doi: https://doi.org/10.1590/S0103-65132012005000052
+    url: https://www.scielo.br/j/prod/a/89PCXVGqZvgmDxNRFtK7yvv/?format=pdf&lang=pt
+    year: 2012
+    type: conference
+    
+  - title: "A study on ERP system implementation: a survey at large industrial companies"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Production"
+    doi: #
+    url: #
+    year: 2012
+    type: conference
+    
+  - title: "A inovação tecnológica e o impacto das mudanças nos negócios: Diagnóstico comparativo entre duas empresas industriais"
+    authors:Leila Cristina Huppes FAMPER, Lindomar Subtil de Oliveira, Daniel Baccin, Kellerman AL Godarth, Marilei Martins FAMPER 
+    venue: ""
+    doi: #
+    url: http://pg.utfpr.edu.br/expout/2011/artigos/2.pdf
+    year: 2008
+    type: conference
+    
+  - title: "Os sistemas ERP’s como vantagem competitiva na integração da cadeia de suprimentos dos Aglomerados Industriais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama, Patrícia Guarnieri, Dario Eduardo A Dergint
+    venue: "2º Encontro de Engenharia e Tecnologia dos Campos Gerais"
+    doi: #
+    url: http://www.pg.utfpr.edu.br/ppgep/anais/artigos/informatica/46%20OS%20SISTEMAS%20ERP%20COMO%20VANTAG%20COMPETI%20NA%20INTEGR%20CADE%20SUPRIM.pdf
+    year: 2008
+    type: conference
+    
+  - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP"
+    authors: LINDOMAR SUBTIL DE OLIVEIRA
+    venue: ""
+    doi: # 
+    url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
+    year: 2006
+    type: conference
+    
+  - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP. 2006. 154 f"
+    authors: Lindomar Subtil de OLIVEIRA
+    venue: "Dissertação (Mestrado em Engenharia de Produção)-Universidade Tecnológica Federal do Paraná, Ponta Grossa"
+    doi: #
+    url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
+    year: 2006
+    type: conference
+    
+  - title: "A flexibilidade do sistema erp frente as mudanças organizacionais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
+    venue: "Publicatio UEPG: Ciências Humanas, Linguistica, Letras e Artes"
+    doi: #
+    url: https://www.revistas.uepg.br/index.php/humanas/article/view/557/556
+    year: 2006
+    type: conference
+    
+  - title: "A implantação do sistema ERP e a utilização das novas: Estudo de caso em uma empresa multinacional"
+    authors: Lindomar Subtil de Oliveira, Luiz Olívio Bortolli, Kazuo Hatakeyama
+    venue: "Anais do III Simpósio Brasileiro de Sistemas de Informação"
+    doi: https://doi.org/10.5753/sbsi.2006.14742 
+    url: #
+    year: 2006
+    type: conference
+    
 ---
 All the other research will be added soon!
