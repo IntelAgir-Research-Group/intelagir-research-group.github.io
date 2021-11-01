@@ -172,5 +172,45 @@ publications:
     year: 2019
     type: conference
     
+  - title: "Inovação social: Análise em habitats de inovação"
+    authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Maria Luiza Kock, LS Oliveira
+    venue: "Anais do XLIII ENCONTRO DA ANPAD-ENANPAD"
+    doi: #
+    url: http://www.anpad.org.br/abrir_pdf.php?e=MjY0Njk=
+    year: 2019
+    type: conference
+    
+  - title: "Critical success factors for open innovation implementation"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Echeveste, Marcelo Nogueira Cortimiglia 
+    venue: "Journal of Organizational Change Management"
+    doi: https://doi.org/10.1108/JOCM-11-2017-0416
+    url: #
+    year: 2018
+    type: conference
+  
+  - title: "Analysis of Determinants for open innovation implementation in regional innovation systems"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, César Giovani Colini Gonçalves
+    venue: "RAI Revista de Administração e Inovação"
+    doi: https://doi.org/10.1016/j.rai.2017.03.006
+    url: #
+    year: 2017
+    type: conference
+    
+  - title: "Um processo para implementação da estratégia open innovation em empresas de sistemas regionais de inovação"
+    authors: Lindomar Subtil de Oliveira
+    venue: ""
+    doi: #
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/169823/001050605.pdf?sequence=1
+    year: 2017
+    type: conference
+   
+  - title: "The effect of innovation activities on innovation outputs in the Brazilian industry: Market-orientation vs. technology-acquisition strategies"
+    authors: Alejandro Germán Frank, Marcelo Nogueira Cortimiglia, José Luis Duarte Ribeiro, Lindomar Subtil de Oliveira 
+    venue: "Research Policy"
+    doi: https://doi.org/10.1016/j.respol.2015.11.011
+    url: #
+    year: 2016
+    type: conference
+    
 ---
 All the other research will be added soon!
