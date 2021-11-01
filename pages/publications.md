@@ -354,6 +354,14 @@ publications:
     year: 2019
     type: conference
     
+  - title: "Modeling & simulation of software architectures of systems-of-systems: An industrial report on the brazilian space system"
+    authors: Valdemar Vicente Graciano Neto, Carlos Eduardo Paes, Adair José Rohling, Wallace Manzano, Elisa Yumi Nakagawa 
+    venue: "2019 Spring Simulation Conference (SpringSim)"
+    doi: https://doi.org/10.23919/SpringSim.2019.8732870
+    url: #
+    year: 2019
+    type: conference
+    
   - title: "A study on goals specification for systems-of-information systems: Design principles and a conceptual model"
     authors: Valdemar V Graciano Neto, Flavio Horita, Everton Cavalcante, Adair Rohling, Jamal El-Hachem, Daniel Santos, Elisa Y Nakagawa
     venue: "Proceedings of the XIV Brazilian Symposium on Information Systems"
@@ -368,6 +376,22 @@ publications:
     doi: https://doi.org/10.1145/3167132.3167313
     url: http://mtc-m21c.sid.inpe.br/col/sid.inpe.br/mtc-m21c/2018/08.06.15.57/doc/graciano%20neto_externalizing.pdf
     year: 2018
+    type: conference
+    
+  - title: "A Study on Goals Specification for Systems-of-Information Systems: Design Principles and a Conceptual Model"
+    authors: Valdemar V Graciano Neto, Flavio Horita, Everton Cavalcante, Adair Rohling, Jamal El-Hachem, Daniel Santos, Elisa Y Nakagawa
+    venue: "SBSI'18: Proceedings of the XIV Brazilian Symposium on Information Systems"
+    doi: https://doi.org/10.1145/3229345.3229369
+    url: #
+    year: 2018
+    type: conference
+    
+  - title: "Concurrent Structured Analysis SE method applied to a solar irradiance monitor satellite"
+    authors: Rodrigo Britto Maria, Halph Macedo Fraulob, Adrielle Chiaki, Gabriel G Coronel M, Adair Rohling, Geilson Loureiro
+    venue: "INCOSE International Symposium"
+    doi: https://doi.org/10.1002/j.2334-5837.2016.00183.x
+    url: #
+    year: 2016
     type: conference
  
 ---
