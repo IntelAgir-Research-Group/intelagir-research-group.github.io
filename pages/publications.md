@@ -212,5 +212,45 @@ publications:
     year: 2016
     type: conference
     
+  - title: "Análise bibliométrica e principais dimensões da literatura sobre open innovation"
+    authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, Andriele de Prá Carvalho 
+    venue: "International Journal of Knowledge Engineering and Management (IJKEM)"
+    doi: #
+    url: http://stat.intraducoes.incubadora.ufsc.br/index.php/IJKEM/article/view/3815/4403
+    year: 2016
+    type: conference
+    
+  - title: "GESTÃO DE REQUISITOS PARA UM PORTAL DE INOVAÇÃO ABERTA"
+    authors: Lindomar Subtil de Oliveira, Jonatas O Scherer, Manoel Nascimento, Márcia Elisa Soares Echeveste, Patrícia F Magnago
+    venue: "Sistemas & Gestão"
+    doi: https://doi.org/10.20985/1980-5160.2016.v11n1.827
+    url: #
+    year: 2016
+    type: conference
+    
+  - title: "Processo de Implementação da Open Innovation: Proposta para Empresas de Sistemas Regionais de Inovação"
+    authors: Lindomar Subtil De Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
+    venue: "Ingeniería Industrial. Actualidad y Nuevas Tendencias"
+    doi: #
+    url: https://www.redalyc.org/pdf/2150/215049679003.pdf
+    year: 2016
+    type: conference
+    
+  - title: "Identificação de requisitos para um portal de inovação aberta"
+    authors: Lindomar Subtil de Oliveira, Jonatas Ost Scherer, Manoel do Nascimento Filho, Marcia Elisa Soares Echeveste
+    venue: "Sistemas & Gestão [recurso eletrônico]. Rio de Janeiro. V. 11"
+    doi: # 
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/172643/001059291.pdf?sequence=1
+    year: 2016
+    type: conference
+    
+  - title: "Implantação e avaliação das Boas Práticas de Fabricação–BPF: estudo de caso"
+    authors: Marcia Regina Sinhorini, Lindomar Subtil de OLIVEIRA, Alexandre da Trindade Alfaro 
+    venue: "Revista do Instituto Adolfo Lutz"
+    doi: #
+    url: https://docs.bvsalud.org/biblioref/ses-sp/2015/ses-32823/ses-32823-6080.pdf
+    year: 2015
+    type: conference
+    
 ---
 All the other research will be added soon!
