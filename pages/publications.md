@@ -252,5 +252,39 @@ publications:
     year: 2015
     type: conference
     
+  - title: "Competitividade e inovação regional"
+    authors: Andriele de Prá Carvalho, Dalcio Roberto dos Reis, Eloiza Avila de Matos, Lindomar Subtil de Oliveira
+    venue: "Revista Competitividade e Sustentabilidade"
+    doi: https://doi.org/10.48075/comsus.v2i2.13866
+    url: #
+    year: 2015
+    type: conference
+    
+  - title: "Plano de ação para produção e consumo sustentável no Brasil"
+    authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Júlio Henrique Ely Zibetti, Renata Tilemann Facó,
+    Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber ten Caten
+    venue: "REVISTA GEINTEC-GESTAO INOVACAO E TECNOLOGIAS"
+    doi: #
+    url: https://revistageintec.net/index.php/revista/article/view/635/589
+    year: 2015
+    type: conference
+    
+  - title: "Análise do Plano de Ação para Produção e do Consumo Sustentável no Brasil"
+    authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Julio Henrique Ely Zibetti, Renata Tilemann Facó,
+    Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber Ten Caten 
+    venue: "Revista GEINTEC: Gestão, Inovação e Tecnologias. São Cristóvão, SE. Vol. 5,"
+    doi: #
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/172604/001059341.pdf?sequence=1
+    year: 2015
+    type: conference
+    
+  - title: "Políticas públicas e os arranjos produtivos locais: direção para a competitividade e desenvolvimento econômico regional"
+    authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes, Marcelo Nogueira Cortimiglia, Marcia Elisa Soares Echeveste 
+    venue: "Semana de Engenharia de Produção Sul Americana (13.: 2013 jun. 9-11: Gramado, RS). Anais..[recurso eletrônico]. Porto Alegre: FEEng"
+    doi: #
+    url: https://www.lume.ufrgs.br/bitstream/handle/10183/196437/000903984.pdf?sequence=1
+    year: 2013
+    type: conference
+    
 ---
 All the other research will be added soon!
