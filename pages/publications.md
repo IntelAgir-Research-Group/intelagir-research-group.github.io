@@ -292,12 +292,12 @@ publications:
     year: 2012
     type: conference
     
-  - title: "A study on ERP system implementation: a survey at large industrial companies"
-    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
-    venue: "Production"
+  - title: "A inovação tecnológica e o impacto das mudanças nos negócios: Diagnóstico comparativo entre duas empresas industriais"
+    authors:Leila Cristina Huppes FAMPER, Lindomar Subtil de Oliveira, Daniel Baccin, Kellerman AL Godarth, Marilei Martins FAMPER 
+    venue: ""
     doi: #
-    url: #
-    year: 2012
+    url: http://pg.utfpr.edu.br/expout/2011/artigos/2.pdf
+    year: 2008
     type: conference
     
 ---
