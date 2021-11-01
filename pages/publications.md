@@ -300,5 +300,21 @@ publications:
     year: 2008
     type: conference
     
+  - title: "Os sistemas ERP’s como vantagem competitiva na integração da cadeia de suprimentos dos Aglomerados Industriais"
+    authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama, Patrícia Guarnieri, Dario Eduardo A Dergint
+    venue: "II Encontro de Engenharia e Tecnologia dos Campos Gerais"
+    doi: #
+    url: http://www.pg.utfpr.edu.br/ppgep/anais/artigos/informatica/46%20OS%20SISTEMAS%20ERP%20COMO%20VANTAG%20COMPETI%20NA%20INTEGR%20CADE%20SUPRIM.pdf
+    year: 2008
+    type: conference
+    
+  - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP"
+    authors: LINDOMAR SUBTIL DE OLIVEIRA
+    venue: ""
+    doi: # 
+    url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
+    year: 2006
+    type: conference
+    
 ---
 All the other research will be added soon!
