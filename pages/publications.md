@@ -339,14 +339,6 @@ publications:
     url: #
     year: 2006
     type: conference
-    
-  - title: "Effects of Apanteles militaris (Hymenoptera, Braconidae) parasitism on development and food consumption of Mythimna unipuncta (Lepidoptera,     Noctuidae) larvae"
-    authors: V Vieira, R Vasconcelos, L Oliveira, J Tavares
-    venue: "The 6th European Congress of Entomology, Ceske Budejovice (Czech Republic), 23-29 Aug 1998"
-    doi: #
-    url: https://agris.fao.org/agris-search/search.do?recordID=CZ1999000133
-    year: 1998
-    type: conference
-    
+ 
 ---
 All the other research will be added soon!
