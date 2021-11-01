@@ -293,7 +293,7 @@ publications:
     type: conference
     
   - title: "A inovação tecnológica e o impacto das mudanças nos negócios: Diagnóstico comparativo entre duas empresas industriais"
-    authors:Leila Cristina Huppes FAMPER, Lindomar Subtil de Oliveira, Daniel Baccin, Kellerman AL Godarth, Marilei Martins FAMPER 
+    authors: Leila Cristina Huppes FAMPER, Lindomar Subtil de Oliveira, Daniel Baccin, Kellerman AL Godarth, Marilei Martins FAMPER 
     venue: ""
     doi: #
     url: http://pg.utfpr.edu.br/expout/2011/artigos/2.pdf
