@@ -332,5 +332,13 @@ publications:
     year: 2006
     type: conference
     
+  - title: "A implantação do sistema ERP e a utilização das novas: Estudo de caso em uma empresa multinacional"
+    authors: Lindomar Subtil de Oliveira, Luiz Olívio Bortolli, Kazuo Hatakeyama
+    venue: "Anais do III Simpósio Brasileiro de Sistemas de Informação"
+    doi: https://doi.org/10.5753/sbsi.2006.14742 
+    url: #
+    year: 2006
+    type: conference
+    
 ---
 All the other research will be added soon!
