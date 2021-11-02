@@ -447,6 +447,14 @@ publications:
     year: 2016
     type: conference
     
+  - title: "A computational approach based on syntactic levels of language in authorship attribution"
+    authors: Paulo Junior Varela, Edson Jose Rodrigues Justino, Flavio Bortolozzi, Luiz Eduardo Soares Oliveira
+    venue: "IEEE Latin America Transactions"
+    doi: https://doi.org/10.1109/TLA.2016.7430088
+    url: http://www.projectsgoal.com/download_projects/natural-language-processing/natural-language-processing-projects-GNLP00087.pdf
+    year: 2016
+    type: conference
+    
   - title: "Uma experiência prática da inserção da robótica e seus benefícios como ferramenta educativa em escolas públicas"
     authors: Rosaine Fiorio, Rauany J Esperandim, Flávio A Silva, Paulo J Varela, Maici Duarte Leite, Francisco Antonio Fernandes Reinaldo 
     venue: "Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE)"
@@ -463,7 +471,37 @@ publications:
     year: 2011
     type: conference
     
+  - title: "Identificação de Autoria de Textos através do uso de Classes Linguísticas da Língua Portuguesa"
+    authors: Paulo Júnior Varela, Edson JR Justino, Luiz ES Oliveira
+    venue: "8Th Brazilian Symposium in Information and human Language Technology-STIL"
+    doi: #
+    url: https://www.aclweb.org/anthology/W11-4521.pdf
+    year: 2011
+    type: conference
     
+  - title: "O uso de dicionário de atributos estilométricos na identificação de autoria de textos de língua portuguesa"
+    authors: Paulo Júnior Varela, Edson JR Justino, Luiz ES Oliveira, Pontifícia Univeridade Católica do Paraná
+    venue: "The 8th Brazilian Symposium in Information and Human Language Technology. Cuiabá"
+    doi: #
+    url: http://sites.labic.icmc.usp.br/wti2009/papers/58255.pdf
+    year: 2011
+    type: conference
+    
+  - title: "O uso de atributos estilométricos na identificação da autoria de textos"
+    authors: PAULO JÚNIOR Varela
+    venue: "Pontifícia Universidade Católica do Paraná"
+    doi: #
+    url: https://www.inf.ufpr.br/lesoliveira/download/VarelaMSC.pdf
+    year: 2010
+    type: conference
+    
+  - title: "Verbs and pronouns for authorship attribution"
+    authors: Paulo Varela, Edson Justino, Luiz S Oliveira
+    venue: "17th International Conference on Systems, Signals and Image Processing (IWSSIP 2010)"
+    doi: #
+    url: https://www.iwssip.org/archive/2010/Proceedings/nav/papers/paper_19.pdf
+    year: 2010
+    type: conference
     
 ---
 All the other research will be added soon!
