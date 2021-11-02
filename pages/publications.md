@@ -343,9 +343,16 @@ publications:
     type: conference
     
     
-   
     
     
+    
+  - title: "A Simulation-Driven Model-Based Approach for Behaviors Evaluation in Software Architectures of Systems-of-Systems"
+    authors: Valdemar Vicente Graciano Neto, Lina Garcés, Milena Guessi, Carlos Eduardo B Paes, Wallace Manzano, Adair Rohling, Mohammad Kassab, Flavio Oquendo, Elisa Yumi Nakagawa
+    venue: ""
+    doi: #
+    url: https://www.inf.ufg.br/~valdemarneto/projects/asas/sosadl2devs.pdf
+    year: 2021
+    type: conference
     
   - title: "Arquiteturas de Referência para Sistemas-de-Sistemas: um Mapeamento Sistemático"
     authors: Priscilla Elizabeth Pereira Batista, Renato de Freitas Bulcão Neto, Carlos Eduardo de Barros Paes, Eliomar Araujo de Lima, Adair José Rohling, Valdemar Vicente Graciano Neto
@@ -403,6 +410,14 @@ publications:
     year: 2018
     type: conference
     
+  - title: "A REFERENCE ARCHITECTURE FOR SATELLITE SYSTEMS OPERATIONS"
+    authors: Adair José Rohling
+    venue: "Instituto Nacional de Pesquisas Espaciais - INPE"
+    doi: # 
+    url: http://mtc-m21c.sid.inpe.br/col/sid.inpe.br/mtc-m21c/2018/09.11.17.51/doc/publicacao.pdf
+    year: 2018
+    type: conference
+    
   - title: "Concurrent Structured Analysis SE method applied to a solar irradiance monitor satellite"
     authors: Rodrigo Britto Maria, Halph Macedo Fraulob, Adrielle Chiaki, Gabriel G Coronel M, Adair Rohling, Geilson Loureiro
     venue: "INCOSE International Symposium"
@@ -418,6 +433,6 @@ publications:
     url: https://www.researchgate.net/profile/Walter-Dos-Santos/publication/331045064_Integration_of_the_INPE_Ground_Station_into_the_SATNet_Network_for_Supporting_Small_Satellites_Programs_in_Brazil/links/5d7a95e04585155f1e3ee57a/Integration-of-the-INPE-Ground-Station-into-the-SATNet-Network-for-Supporting-Small-Satellites-Programs-in-Brazil.pdf
     year: 2016
     type: conference
- 
+    
 ---
 All the other research will be added soon!
