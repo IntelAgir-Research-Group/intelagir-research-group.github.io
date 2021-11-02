@@ -546,5 +546,26 @@ publications:
     year: 2004
     type: conference
     
+    
+    
+    
+    
+  - title: "Changes of Affective States in Intelligent Tutoring System to Improve Feedbacks Through Low-Cost and Open Electroencephalogram and Facial Expression"
+    authors: Wellton Costa de Oliveira, Ernani Gottardo, Andrey Ricardo Pimentel
+    venue: "International Conference on Intelligent Tutoring Systems
+ITS 2020"
+    doi: https://doi.org/10.1007/978-3-030-49663-0_55
+    url: #
+    year: 2020 
+    type: conference
+    
+  - title: "Avaliação do instrumento SAM para a etiquetagem de atributos afetivos de imagens em ambiente web"
+    authors: Wellton Costa de Oliveira
+    venue: "Repositório Institucional da Universidade Tecnológica Federal do Paraná (RIUT) POS - Programas de Pós-Graduação Stricto-Sensu (Mestrados e Doutorados) MEST - Dissertações CT - Programa de Pós-Graduação em Engenharia Elétrica e Informática Industria"
+    doi: #
+    url: http://repositorio.utfpr.edu.br/jspui/handle/1/898
+    year: 2011
+    type: conference
+    
 ---
 All the other research will be added soon!
