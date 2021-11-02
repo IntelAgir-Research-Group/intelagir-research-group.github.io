@@ -432,12 +432,27 @@ publications:
     doi: #
     url: https://www.researchgate.net/profile/Walter-Dos-Santos/publication/331045064_Integration_of_the_INPE_Ground_Station_into_the_SATNet_Network_for_Supporting_Small_Satellites_Programs_in_Brazil/links/5d7a95e04585155f1e3ee57a/Integration-of-the-INPE-Ground-Station-into-the-SATNet-Network-for-Supporting-Small-Satellites-Programs-in-Brazil.pdf
     year: 2016
+    type: conference  
+    
+    
+    
+    
+    
+  - title: "Percepções do uso de Ferramentas Online no processo de Ensino-Aprendizagem de Física para o Ensino Médio em Escolas Públicas do Sudoeste do Paraná"
+    authors: Rosaine Fiorio Semler, Paulo Varela, Jhonnatan Ricardo Semler
+    venue: "Anais do XXXI Simpósio Brasileiro de Informática na Educação"
+    doi: https://doi.org/10.5753/cbie.sbie.2020.01
+    url: #
+    year: 2020
     type: conference
     
-    
-    
-    
-    
+  - title: "UMA ABORDAGEM COMPUTACIONAL BASEADA EM ANÁLISE SINTÁTICA MULTILÍNGUE NA ATRIBUIÇÃO DA AUTORIA DE DOCUMENTOS DIGITAIS"
+    authors: PAULO JÚNIOR VARELA
+    venue: "Pontifícia Universidade Católica do Paraná"
+    doi: #
+    url: https://www.ppgia.pucpr.br/pt/arquivos/doutorado/teses/2017/046_Tese_PauloJuniorVarela.pdf
+    year: 2017
+    type: conference
     
   - title: "A computational approach for authorship attribution of literary texts using sintatic features"
     authors: Paulo Varela, Edson Justino, Alceu Britto, Flávio Bortolozzi
