@@ -346,6 +346,15 @@ publications:
    
     
     
+    
+  - title: "Arquiteturas de Referência para Sistemas-de-Sistemas: um Mapeamento Sistemático"
+    authors: Priscilla Elizabeth Pereira Batista, Renato de Freitas Bulcão Neto, Carlos Eduardo de Barros Paes, Eliomar Araujo de Lima, Adair José Rohling, Valdemar Vicente Graciano Neto
+    venue: "iSys-Brazilian Journal of Information Systems"
+    doi: https://doi.org/10.5753/isys.2021.988
+    url: #
+    year: 2021
+    type: conference
+    
   - title: "A reference architecture for satellite control systems"
     authors: Adair José Rohling, Valdemar Vicente Graciano Neto, Mauricio Gonçalves Vieira Ferreira, Walter Abrahão Dos Santos, Elisa Yumi Nakagawa
     venue: "Innovations in Systems and Software Engineering"
@@ -358,6 +367,14 @@ publications:
     authors: Valdemar Vicente Graciano Neto, Carlos Eduardo Paes, Adair José Rohling, Wallace Manzano, Elisa Yumi Nakagawa 
     venue: "2019 Spring Simulation Conference (SpringSim)"
     doi: https://doi.org/10.23919/SpringSim.2019.8732870
+    url: #
+    year: 2019
+    type: conference
+    
+  - title: "Evolução Arquitetural em Sistemas de Controle de Satélites"
+    authors: Adair J Rohling, Valdemar VG Neto, Elisa Y Nakagawa, Mauricio GV Ferreira
+    venue: "Anais Estendidos do X Congresso Brasileiro de Software: Teoria e Prática"
+    doi: https://doi.org/10.5753/cbsoft_estendido.2019.7661
     url: #
     year: 2019
     type: conference
@@ -391,6 +408,14 @@ publications:
     venue: "INCOSE International Symposium"
     doi: https://doi.org/10.1002/j.2334-5837.2016.00183.x
     url: #
+    year: 2016
+    type: conference
+    
+  - title: "Integration of the INPE Ground Station into the SATNet Network for Supporting Small Satellites Programs in Brazil"
+    authors: R Tubío-Pardavila, Jorge Enrique Espindola Diaz, AJ Rohling, MGV Ferreira, WA Dos Santos, J Puig-Suari, Fernando Aguado-Agelet 
+    venue: "Proceedings of the 1st IAA Latin American Symposium on Small Satellites"
+    doi: #
+    url: https://www.researchgate.net/profile/Walter-Dos-Santos/publication/331045064_Integration_of_the_INPE_Ground_Station_into_the_SATNet_Network_for_Supporting_Small_Satellites_Programs_in_Brazil/links/5d7a95e04585155f1e3ee57a/Integration-of-the-INPE-Ground-Station-into-the-SATNet-Network-for-Supporting-Small-Satellites-Programs-in-Brazil.pdf
     year: 2016
     type: conference
  
