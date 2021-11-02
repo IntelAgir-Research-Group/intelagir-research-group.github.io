@@ -434,5 +434,36 @@ publications:
     year: 2016
     type: conference
     
+    
+    
+    
+    
+    
+  - title: "A computational approach for authorship attribution of literary texts using sintatic features"
+    authors: Paulo Varela, Edson Justino, Alceu Britto, Flávio Bortolozzi
+    venue: "2016 International Joint Conference on Neural Networks (IJCNN)"
+    doi: https://doi.org/10.1109/IJCNN.2016.7727835
+    url: https://www.researchgate.net/profile/Paulo-Varela-5/publication/309775942_A_computational_approach_for_authorship_attribution_of_literary_texts_using_sintatic_features/links/609bcbd1458515a04c499e09/A-computational-approach-for-authorship-attribution-of-literary-texts-using-sintatic-features.pdf
+    year: 2016
+    type: conference
+    
+  - title: "Uma experiência prática da inserção da robótica e seus benefícios como ferramenta educativa em escolas públicas"
+    authors: Rosaine Fiorio, Rauany J Esperandim, Flávio A Silva, Paulo J Varela, Maici Duarte Leite, Francisco Antonio Fernandes Reinaldo 
+    venue: "Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE)"
+    doi: http://dx.doi.org/10.5753/cbie.sbie.2014.1223
+    url: http://br-ie.org/pub/index.php/sbie/article/view/3070/2578
+    year: 2014
+    type: conference
+    
+  - title: "Selecting syntactic attributes for authorship attribution"
+    authors: Paulo Varela, Edson Justino, Luiz S Oliveira
+    venue: "The 2011 International Joint Conference on Neural Networks"
+    doi: # 
+    url: https://www.inf.ufpr.br/lesoliveira/download/ijcnn2011.pdf
+    year: 2011
+    type: conference
+    
+    
+    
 ---
 All the other research will be added soon!
