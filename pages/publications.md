@@ -518,5 +518,33 @@ publications:
     year: 2010
     type: conference
     
+    
+    
+    
+    
+  - title: "Stereoscopic Interactive Objects: Acquisition, Generation and Evaluation"
+    authors: Flávio de Almeida e Silva, Diogo Roberto Olsen, Lucas Murbach Pierin, Flávio Bortolozzi, Edson José Rodrigues Justino
+    venue: " Proceedings of the 11th International Conference on Computer Supported Education - Volume 2: CSEDU"
+    doi: https://doi.org/10.5220/0007796001650176
+    url: #
+    year: 2019
+    type: conference
+    
+  - title: "Generation of Stereoscopic Interactive Learning Objects True to the Original Object"
+    authors: 	Diogo Roberto Olsen, Flávio de Almeida e Silva, Lucas Murbach Pierin, Aramis Hornung Moraes, Edson José Rodrigues Justino
+    venue: ""
+    doi: https://doi.org/10.5220/0006701402590266
+    url: #
+    year: 2018
+    type: conference
+    
+  - title: "Behavior implementation in autonomous agents using modular and hierarchical neural networks"
+    authors: Flávio de Almeida e Silva, Guilherme Bittencourt, Mauro Roisenberg, Jorge Muniz Barreto, Renato C. Vieira, Dennis Kerr Coelho
+    venue: "IEEE Conference on Robotics, Automation and Mechatronics, 2004"
+    doi: https://doi.org/10.1109/RAMECH.2004.1438042
+    url: #
+    year: 2004
+    type: conference
+    
 ---
 All the other research will be added soon!
