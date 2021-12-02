@@ -485,6 +485,14 @@ ITS 2020"
     year: 2018
     type: conference
     
+   - title:"Estratégia para o Controle dos Robôs EyeBot do UFSC-Team: Categoria Small Size do Futebol de Robôs"
+     authors: SILVA, Flávio de Almeida e ; STRASSMAN, Denis Schneider ; COSTA, João Gabriel Fadel da ; LÓSSIO, Rodolfo Gondim ; BITTENCOURT, Guilherme ; ROISENBERG, M. 
+     venue:"III EnRI - Encontro de Robótica Inteligente, 2006, Campo Grande. Anais do XXIV Congresso da Sociedade Brasileira de Computação, 2006. p. 117-125."
+     doi: #
+     url: https://www.academia.edu/download/43538449/Estratgia_para_o_Controle_dos_Robs_EyeBo20160309-7926-1uzffqi.pdf
+     year: 2006
+     type: conference
+    
   - title: "Behavior implementation in autonomous agents using modular and hierarchical neural networks"
     authors: Flávio de Almeida e Silva, Guilherme Bittencourt, Mauro Roisenberg, Jorge Muniz Barreto, Renato C. Vieira, Dennis Kerr Coelho
     venue: "IEEE Conference on Robotics, Automation and Mechatronics, 2004"
@@ -494,11 +502,19 @@ ITS 2020"
     type: conference
     
   - title: "Aplicação de Redes Neuronais Hierárquicas no Controle da Navegação de Robôs Autônomos"
-    authors: SILVA, Flávio de Almeida e ; PEREZ, Anderson Luiz Fernandes ; BITTENCOURT, Guilherme ; ROISENBERG, M. .
+    authors: SILVA, Flávio de Almeida e ; PEREZ, Anderson Luiz Fernandes ; BITTENCOURT, Guilherme ; ROISENBERG, M. 
     venue: "XXIV Congresso da Sociedade Brasileira de Computação - Encontro de Robótica Inteligente (EnRI), 2004, Salvador. Anais do SBC 2004 - Integração e Diferenças Regionais: O Papel da Computação. São Paulo: Tec Art Editora Ltda, 2004. v. 1. p. 1792-1801."
     doi: #
     url: #
     year: 2004
     type: conference
+    
+   - title:"PyramidNet: A Modular and Hierarchical Neural Network Architecture for Behavior Based Robotics"
+     authors: ROISENBERG, M.; BARRETO, Jorge Muniz ; SILVA, Flávio de Almeida e ; VIEIRA, Renato Corrêa ; COELHO, Dennis Kerr.
+     venue:"International Symposium on Robotics and Automation, 2004, Quéretaro. ISRA 2004, 2004. v. 1. p. 32-37."
+     doi: #
+     url: #
+     year: 2004
+     type: conference
     
 ---
