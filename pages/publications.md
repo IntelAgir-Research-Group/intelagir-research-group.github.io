@@ -501,12 +501,12 @@ ITS 2020"
     year: 2004
     type: conference
     
-   - title: "PyramidNet A Modular and Hierarchical Neural Network Architecture for Behavior Based Robotics"
-     authors: ROISENBERG, M.; BARRETO, Jorge Muniz ; SILVA, Flávio de Almeida e ; VIEIRA, Renato Corrêa ; COELHO, Dennis Kerr.
-     venue: "International Symposium on Robotics and Automation, 2004, Quéretaro. ISRA 2004, 2004. v. 1. p. 32-37."
-     doi: #
-     url: #
-     year: 2004
-     type: conference
+  - title: "PyramidNet: A Modular and Hierarchical Neural Network Architecture for Behavior Based Robotics"
+    authors: ROISENBERG, M.; BARRETO, Jorge Muniz ; SILVA, Flávio de Almeida e ; VIEIRA, Renato Corrêa ; COELHO, Dennis Kerr.
+    venue: "International Symposium on Robotics and Automation, 2004, Quéretaro. ISRA 2004, 2004. v. 1. p. 32-37."
+    doi: #
+    url: #
+    year: 2004
+    type: conference
    
 ---
