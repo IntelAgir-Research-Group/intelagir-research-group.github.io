@@ -515,6 +515,5 @@ ITS 2020"
      doi: #
      url: #
      year: 2004
-     type: conference
-    
+     type: conference    
 ---
