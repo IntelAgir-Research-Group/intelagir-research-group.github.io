@@ -460,6 +460,15 @@ publications:
     year: 2010
     type: conference
     
+  - title: "Changes of Affective States in Intelligent Tutoring System to Improve Feedbacks Through Low-Cost and Open Electroencephalogram and Facial Expression"
+    authors: Wellton Costa de Oliveira, Ernani Gottardo, Andrey Ricardo Pimentel
+    venue: "International Conference on Intelligent Tutoring Systems
+ITS 2020"
+    doi: https://doi.org/10.1007/978-3-030-49663-0_55
+    url: #
+    year: 2020 
+    type: conference
+    
   - title: "Stereoscopic Interactive Objects: Acquisition, Generation and Evaluation"
     authors: Flávio de Almeida e Silva, Diogo Roberto Olsen, Lucas Murbach Pierin, Flávio Bortolozzi, Edson José Rodrigues Justino
     venue: " Proceedings of the 11th International Conference on Computer Supported Education - Volume 2: CSEDU"
@@ -484,14 +493,12 @@ publications:
     year: 2004
     type: conference
     
-  - title: "Changes of Affective States in Intelligent Tutoring System to Improve Feedbacks Through Low-Cost and Open Electroencephalogram and Facial Expression"
-    authors: Wellton Costa de Oliveira, Ernani Gottardo, Andrey Ricardo Pimentel
-    venue: "International Conference on Intelligent Tutoring Systems
-ITS 2020"
-    doi: https://doi.org/10.1007/978-3-030-49663-0_55
+  - title: "Aplicação de Redes Neuronais Hierárquicas no Controle da Navegação de Robôs Autônomos"
+    authors: SILVA, Flávio de Almeida e ; PEREZ, Anderson Luiz Fernandes ; BITTENCOURT, Guilherme ; ROISENBERG, M. .
+    venue: "XXIV Congresso da Sociedade Brasileira de Computação - Encontro de Robótica Inteligente (EnRI), 2004, Salvador. Anais do SBC 2004 - Integração e Diferenças Regionais: O Papel da Computação. São Paulo: Tec Art Editora Ltda, 2004. v. 1. p. 1792-1801."
+    doi: #
     url: #
-    year: 2020 
+    year: 2004
     type: conference
-
     
 ---
