@@ -32,7 +32,7 @@ publications:
     doi: https://doi.org/10.1109/TLA.2020.9082216
     url: https://latamt.ieeer9.org/index.php/transactions/article/download/1710/452
     year: 2020
-    type: conference
+    type: journal
     
   - title: "Linguisticun: Uma Ferramenta de Auxílio ao Ensino da Língua Portuguesa e à Linguística Computacional"
     authors: Rosaine Fiorio, Paulo Varela, Michel Albonico, Jhonnatan Ricardo Semler 
@@ -84,11 +84,11 @@ publications:
     
   - title: "A DSL-based Approach for Elasticity Testing of Cloud Systems"
     authors: Michel Albonico, Amine Benelallam, Jean-Marie Mottu, Gerson Sunyé
-    venue: ""
+    venue: "HAL Open Science"
     doi: # 
     url: https://www.archives-ouvertes.fr/hal-01437137/document
     year: 2017
-    type: conference
+    type: open/unpublished
     
   - title: "A DSL-based approach for elasticity testing of cloud systems"
     authors: M Albonico, A Benelallam, JM Mottu, G Sunyé
@@ -100,38 +100,35 @@ publications:
     
   - title: "Automated workload generation for testing elastic web applications"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: ""
+    venue: "HAL Open Science"
     doi: #
     url: https://hal.archives-ouvertes.fr/hal-01317723/document
     year: 2016
-    type: conference
+    type: open/unpublished
     
   - title: "Controlling the Elasticity of Web Applications on Cloud Computing-Extended Version"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: ""
+    venue: "HAL Open Science"
     doi: #
     url: https://hal.archives-ouvertes.fr/hal-01317715/document
     year: 2016
-    type: conference
+    type: open/unpublished
     
   - title: "Poster: A Procedure for Testing Applications Through Cloud Computing Elasticity"
     authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
     venue: "JDoc Day-ED STIM"
-    doi: #
+    doi: "HAL Open Science"
     url: http://hal.univ-nantes.fr/hal-01317543v1
     year: 2016
-    type: conference
+    type: open/unpublished
     
   - title: "Testing MapReduce-Based Systems"
     authors: João Eugenio Marynowski, Michel Albonico, Eduardo Cunha de Almeida, Gerson Sunyé
-    venue: ""
+    venue: "Simpósio Brasileiro de Banco de Dados"
     doi: #
-    url: https://arxiv.org/pdf/1209.6580.pdf
+    url: http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2011/0018.pdf
     year: 2012
     type: conference
-    
-   
-   
     
     
   - title: "A SUSTENTABILIDADE NA VISÃO DO GESTOR E DOS COLABORADORES: UM ESTUDO CORRELACIONAL"
@@ -140,7 +137,7 @@ publications:
     doi: # 
     url: http://relise.eco.br/index.php/relise/article/view/500/537 
     year: 2021
-    type: conference
+    type: journal
     
   - title: "Inovação social em habitats de inovação: estudo de caso em um hotel tecnológico do Paraná"
     authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Lindomar Subtil de Oliveira
@@ -148,7 +145,7 @@ publications:
     doi: #
     url: https://www.redalyc.org/jatsRepo/4777/477764617005/477764617005.pdf
     year: 2020
-    type: conference
+    type: journal
     
   - title: "Innovation diagnosis in technology companies of a regional innovation system"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Andriele De Prá Carvalho, Melaine Camarotto, Paula Zarelli
@@ -156,7 +153,7 @@ publications:
     doi: https://doi.org/10.14488/BJOPM.2020.032
     url: https://bjopm.emnuvens.com.br/bjopm/article/view/997/940
     year: 2020
-    type: conference
+    type: journal
     
   - title: "Framework proposal for open innovation implementation in SMEs of regional innovation systems"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
@@ -164,7 +161,7 @@ publications:
     doi: http://dx.doi.org/10.4067/S0718-27242019000200014 
     url: #
     year: 2019
-    type: conference
+    type: journal
     
   - title: "Open innovation in regional innovation systems: Assessment of critical success factors for implementation in SMEs"
     authors: Lindomar Subtil de Oliveira, Márcia E Soares Echeveste, Marcelo Nogueira Cortimiglia, Aline C Gularte
@@ -172,7 +169,7 @@ publications:
     doi: https://doi.org/10.1007/s13132-019-00619-y
     url: #
     year: 2019
-    type: conference
+    type: journal
     
   - title: "Inovação social: Análise em habitats de inovação"
     authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Maria Luiza Kock, LS Oliveira
@@ -188,7 +185,7 @@ publications:
     doi: https://doi.org/10.1108/JOCM-11-2017-0416
     url: #
     year: 2018
-    type: conference
+    type: journal
   
   - title: "Analysis of Determinants for open innovation implementation in regional innovation systems"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, César Giovani Colini Gonçalves
@@ -196,15 +193,7 @@ publications:
     doi: https://doi.org/10.1016/j.rai.2017.03.006
     url: #
     year: 2017
-    type: conference
-    
-  - title: "Um processo para implementação da estratégia open innovation em empresas de sistemas regionais de inovação"
-    authors: Lindomar Subtil de Oliveira
-    venue: ""
-    doi: #
-    url: https://www.lume.ufrgs.br/bitstream/handle/10183/169823/001050605.pdf?sequence=1
-    year: 2017
-    type: conference
+    type: journal
    
   - title: "The effect of innovation activities on innovation outputs in the Brazilian industry: Market-orientation vs. technology-acquisition strategies"
     authors: Alejandro Germán Frank, Marcelo Nogueira Cortimiglia, José Luis Duarte Ribeiro, Lindomar Subtil de Oliveira 
@@ -212,7 +201,7 @@ publications:
     doi: https://doi.org/10.1016/j.respol.2015.11.011
     url: #
     year: 2016
-    type: conference
+    type: journal
     
   - title: "Análise bibliométrica e principais dimensões da literatura sobre open innovation"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, Andriele de Prá Carvalho 
@@ -220,7 +209,7 @@ publications:
     doi: #
     url: http://stat.intraducoes.incubadora.ufsc.br/index.php/IJKEM/article/view/3815/4403
     year: 2016
-    type: conference
+    type: journal
     
   - title: "GESTÃO DE REQUISITOS PARA UM PORTAL DE INOVAÇÃO ABERTA"
     authors: Lindomar Subtil de Oliveira, Jonatas O Scherer, Manoel Nascimento, Márcia Elisa Soares Echeveste, Patrícia F Magnago
@@ -228,7 +217,7 @@ publications:
     doi: https://doi.org/10.20985/1980-5160.2016.v11n1.827
     url: #
     year: 2016
-    type: conference
+    type: journal
     
   - title: "Processo de Implementação da Open Innovation: Proposta para Empresas de Sistemas Regionais de Inovação"
     authors: Lindomar Subtil De Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
@@ -236,7 +225,7 @@ publications:
     doi: #
     url: https://www.redalyc.org/pdf/2150/215049679003.pdf
     year: 2016
-    type: conference
+    type: journal
     
   - title: "Identificação de requisitos para um portal de inovação aberta"
     authors: Lindomar Subtil de Oliveira, Jonatas Ost Scherer, Manoel do Nascimento Filho, Marcia Elisa Soares Echeveste
@@ -244,7 +233,7 @@ publications:
     doi: # 
     url: https://www.lume.ufrgs.br/bitstream/handle/10183/172643/001059291.pdf?sequence=1
     year: 2016
-    type: conference
+    type: journal
     
   - title: "Implantação e avaliação das Boas Práticas de Fabricação–BPF: estudo de caso"
     authors: Marcia Regina Sinhorini, Lindomar Subtil de OLIVEIRA, Alexandre da Trindade Alfaro 
@@ -252,7 +241,7 @@ publications:
     doi: #
     url: https://docs.bvsalud.org/biblioref/ses-sp/2015/ses-32823/ses-32823-6080.pdf
     year: 2015
-    type: conference
+    type: journal
     
   - title: "Competitividade e inovação regional"
     authors: Andriele de Prá Carvalho, Dalcio Roberto dos Reis, Eloiza Avila de Matos, Lindomar Subtil de Oliveira
@@ -260,7 +249,7 @@ publications:
     doi: https://doi.org/10.48075/comsus.v2i2.13866
     url: #
     year: 2015
-    type: conference
+    type: journal
     
   - title: "Plano de ação para produção e consumo sustentável no Brasil"
     authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Júlio Henrique Ely Zibetti, Renata Tilemann Facó, Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber ten Caten
@@ -268,7 +257,7 @@ publications:
     doi: #
     url: https://revistageintec.net/index.php/revista/article/view/635/589
     year: 2015
-    type: conference
+    type: journal
     
   - title: "Análise do Plano de Ação para Produção e do Consumo Sustentável no Brasil"
     authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Julio Henrique Ely Zibetti, Renata Tilemann Facó,Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber Ten Caten 
@@ -276,7 +265,7 @@ publications:
     doi: #
     url: https://www.lume.ufrgs.br/bitstream/handle/10183/172604/001059341.pdf?sequence=1
     year: 2015
-    type: conference
+    type: journal
     
   - title: "Políticas públicas e os arranjos produtivos locais: direção para a competitividade e desenvolvimento econômico regional"
     authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes, Marcelo Nogueira Cortimiglia, Marcia Elisa Soares Echeveste 
@@ -292,15 +281,7 @@ publications:
     doi: https://doi.org/10.1590/S0103-65132012005000052
     url: https://www.scielo.br/j/prod/a/89PCXVGqZvgmDxNRFtK7yvv/?format=pdf&lang=pt
     year: 2012
-    type: conference
-    
-  - title: "A inovação tecnológica e o impacto das mudanças nos negócios: Diagnóstico comparativo entre duas empresas industriais"
-    authors: Leila Cristina Huppes FAMPER, Lindomar Subtil de Oliveira, Daniel Baccin, Kellerman AL Godarth, Marilei Martins FAMPER 
-    venue: ""
-    doi: #
-    url: http://pg.utfpr.edu.br/expout/2011/artigos/2.pdf
-    year: 2008
-    type: conference
+    type: journal
     
   - title: "Os sistemas ERP’s como vantagem competitiva na integração da cadeia de suprimentos dos Aglomerados Industriais"
     authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama, Patrícia Guarnieri, Dario Eduardo A Dergint
@@ -310,21 +291,13 @@ publications:
     year: 2008
     type: conference
     
-  - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP"
-    authors: LINDOMAR SUBTIL DE OLIVEIRA
-    venue: ""
-    doi: # 
-    url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
-    year: 2006
-    type: conference
-    
   - title: "Um estudo sobre os principais fatores na implantação de sistemas ERP. 2006. 154 f"
     authors: Lindomar Subtil de OLIVEIRA
     venue: "Dissertação (Mestrado em Engenharia de Produção)-Universidade Tecnológica Federal do Paraná, Ponta Grossa"
     doi: #
     url: http://www.pg.utfpr.edu.br/ppgep/dissertacoes/arquivos/39/Dissertacao.pdf
     year: 2006
-    type: conference
+    type: thesis
     
   - title: "A flexibilidade do sistema erp frente as mudanças organizacionais"
     authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama
@@ -332,7 +305,7 @@ publications:
     doi: #
     url: https://www.revistas.uepg.br/index.php/humanas/article/view/557/556
     year: 2006
-    type: conference
+    type: journal
     
   - title: "A implantação do sistema ERP e a utilização das novas: Estudo de caso em uma empresa multinacional"
     authors: Lindomar Subtil de Oliveira, Luiz Olívio Bortolli, Kazuo Hatakeyama
@@ -341,18 +314,7 @@ publications:
     url: #
     year: 2006
     type: conference
-    
-    
-    
-    
-    
-  - title: "A Simulation-Driven Model-Based Approach for Behaviors Evaluation in Software Architectures of Systems-of-Systems"
-    authors: Valdemar Vicente Graciano Neto, Lina Garcés, Milena Guessi, Carlos Eduardo B Paes, Wallace Manzano, Adair Rohling, Mohammad Kassab, Flavio Oquendo, Elisa Yumi Nakagawa
-    venue: ""
-    doi: #
-    url: https://www.inf.ufg.br/~valdemarneto/projects/asas/sosadl2devs.pdf
-    year: 2021
-    type: conference
+   
     
   - title: "Arquiteturas de Referência para Sistemas-de-Sistemas: um Mapeamento Sistemático"
     authors: Priscilla Elizabeth Pereira Batista, Renato de Freitas Bulcão Neto, Carlos Eduardo de Barros Paes, Eliomar Araujo de Lima, Adair José Rohling, Valdemar Vicente Graciano Neto
@@ -360,7 +322,7 @@ publications:
     doi: https://doi.org/10.5753/isys.2021.988
     url: #
     year: 2021
-    type: conference
+    type: journal
     
   - title: "A reference architecture for satellite control systems"
     authors: Adair José Rohling, Valdemar Vicente Graciano Neto, Mauricio Gonçalves Vieira Ferreira, Walter Abrahão Dos Santos, Elisa Yumi Nakagawa
@@ -368,7 +330,7 @@ publications:
     doi: https://doi.org/10.1007/s11334-019-00322-w
     url: #
     year: 2019
-    type: conference
+    type: journal
     
   - title: "Modeling & simulation of software architectures of systems-of-systems: An industrial report on the brazilian space system"
     authors: Valdemar Vicente Graciano Neto, Carlos Eduardo Paes, Adair José Rohling, Wallace Manzano, Elisa Yumi Nakagawa 
@@ -376,7 +338,7 @@ publications:
     doi: https://doi.org/10.23919/SpringSim.2019.8732870
     url: #
     year: 2019
-    type: conference
+    type: journal
     
   - title: "Evolução Arquitetural em Sistemas de Controle de Satélites"
     authors: Adair J Rohling, Valdemar VG Neto, Elisa Y Nakagawa, Mauricio GV Ferreira
@@ -416,7 +378,7 @@ publications:
     doi: # 
     url: http://mtc-m21c.sid.inpe.br/col/sid.inpe.br/mtc-m21c/2018/09.11.17.51/doc/publicacao.pdf
     year: 2018
-    type: conference
+    type: journal
     
   - title: "Concurrent Structured Analysis SE method applied to a solar irradiance monitor satellite"
     authors: Rodrigo Britto Maria, Halph Macedo Fraulob, Adrielle Chiaki, Gabriel G Coronel M, Adair Rohling, Geilson Loureiro
@@ -424,7 +386,7 @@ publications:
     doi: https://doi.org/10.1002/j.2334-5837.2016.00183.x
     url: #
     year: 2016
-    type: conference
+    type: journal
     
   - title: "Integration of the INPE Ground Station into the SATNet Network for Supporting Small Satellites Programs in Brazil"
     authors: R Tubío-Pardavila, Jorge Enrique Espindola Diaz, AJ Rohling, MGV Ferreira, WA Dos Santos, J Puig-Suari, Fernando Aguado-Agelet 
@@ -434,24 +396,12 @@ publications:
     year: 2016
     type: conference  
     
-    
-    
-    
-    
   - title: "Percepções do uso de Ferramentas Online no processo de Ensino-Aprendizagem de Física para o Ensino Médio em Escolas Públicas do Sudoeste do Paraná"
     authors: Rosaine Fiorio Semler, Paulo Varela, Jhonnatan Ricardo Semler
     venue: "Anais do XXXI Simpósio Brasileiro de Informática na Educação"
     doi: https://doi.org/10.5753/cbie.sbie.2020.01
     url: #
     year: 2020
-    type: conference
-    
-  - title: "UMA ABORDAGEM COMPUTACIONAL BASEADA EM ANÁLISE SINTÁTICA MULTILÍNGUE NA ATRIBUIÇÃO DA AUTORIA DE DOCUMENTOS DIGITAIS"
-    authors: PAULO JÚNIOR VARELA
-    venue: "Pontifícia Universidade Católica do Paraná"
-    doi: #
-    url: https://www.ppgia.pucpr.br/pt/arquivos/doutorado/teses/2017/046_Tese_PauloJuniorVarela.pdf
-    year: 2017
     type: conference
     
   - title: "A computational approach for authorship attribution of literary texts using sintatic features"
@@ -468,7 +418,7 @@ publications:
     doi: https://doi.org/10.1109/TLA.2016.7430088
     url: http://www.projectsgoal.com/download_projects/natural-language-processing/natural-language-processing-projects-GNLP00087.pdf
     year: 2016
-    type: conference
+    type: journal
     
   - title: "Uma experiência prática da inserção da robótica e seus benefícios como ferramenta educativa em escolas públicas"
     authors: Rosaine Fiorio, Rauany J Esperandim, Flávio A Silva, Paulo J Varela, Maici Duarte Leite, Francisco Antonio Fernandes Reinaldo 
@@ -502,14 +452,6 @@ publications:
     year: 2011
     type: conference
     
-  - title: "O uso de atributos estilométricos na identificação da autoria de textos"
-    authors: PAULO JÚNIOR Varela
-    venue: "Pontifícia Universidade Católica do Paraná"
-    doi: #
-    url: https://www.inf.ufpr.br/lesoliveira/download/VarelaMSC.pdf
-    year: 2010
-    type: conference
-    
   - title: "Verbs and pronouns for authorship attribution"
     authors: Paulo Varela, Edson Justino, Luiz S Oliveira
     venue: "17th International Conference on Systems, Signals and Image Processing (IWSSIP 2010)"
@@ -517,10 +459,6 @@ publications:
     url: https://www.iwssip.org/archive/2010/Proceedings/nav/papers/paper_19.pdf
     year: 2010
     type: conference
-    
-    
-    
-    
     
   - title: "Stereoscopic Interactive Objects: Acquisition, Generation and Evaluation"
     authors: Flávio de Almeida e Silva, Diogo Roberto Olsen, Lucas Murbach Pierin, Flávio Bortolozzi, Edson José Rodrigues Justino
@@ -532,7 +470,7 @@ publications:
     
   - title: "Generation of Stereoscopic Interactive Learning Objects True to the Original Object"
     authors: 	Diogo Roberto Olsen, Flávio de Almeida e Silva, Lucas Murbach Pierin, Aramis Hornung Moraes, Edson José Rodrigues Justino
-    venue: ""
+    venue: "Proceedings of the 10th International Conference on Computer Supported Education"
     doi: https://doi.org/10.5220/0006701402590266
     url: #
     year: 2018
@@ -546,10 +484,6 @@ publications:
     year: 2004
     type: conference
     
-    
-    
-    
-    
   - title: "Changes of Affective States in Intelligent Tutoring System to Improve Feedbacks Through Low-Cost and Open Electroencephalogram and Facial Expression"
     authors: Wellton Costa de Oliveira, Ernani Gottardo, Andrey Ricardo Pimentel
     venue: "International Conference on Intelligent Tutoring Systems
@@ -558,14 +492,6 @@ ITS 2020"
     url: #
     year: 2020 
     type: conference
-    
-  - title: "Avaliação do instrumento SAM para a etiquetagem de atributos afetivos de imagens em ambiente web"
-    authors: Wellton Costa de Oliveira
-    venue: "Repositório Institucional da Universidade Tecnológica Federal do Paraná (RIUT) POS - Programas de Pós-Graduação Stricto-Sensu (Mestrados e Doutorados) MEST - Dissertações CT - Programa de Pós-Graduação em Engenharia Elétrica e Informática Industria"
-    doi: #
-    url: http://repositorio.utfpr.edu.br/jspui/handle/1/898
-    year: 2011
-    type: conference
+
     
 ---
-All the other research will be added soon!
