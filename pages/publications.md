@@ -485,9 +485,9 @@ ITS 2020"
     year: 2018
     type: conference
     
-   - title:"Estratégia para o Controle dos Robôs EyeBot do UFSC-Team: Categoria Small Size do Futebol de Robôs"
+   - title: "Estratégia para o Controle dos Robôs EyeBot do UFSC-Team: Categoria Small Size do Futebol de Robôs"
      authors: SILVA, Flávio de Almeida e ; STRASSMAN, Denis Schneider ; COSTA, João Gabriel Fadel da ; LÓSSIO, Rodolfo Gondim ; BITTENCOURT, Guilherme ; ROISENBERG, M. 
-     venue:"III EnRI - Encontro de Robótica Inteligente, 2006, Campo Grande. Anais do XXIV Congresso da Sociedade Brasileira de Computação, 2006. p. 117-125."
+     venue: "III EnRI - Encontro de Robótica Inteligente, 2006, Campo Grande. Anais do XXIV Congresso da Sociedade Brasileira de Computação, 2006. p. 117-125."
      doi: #
      url: https://www.academia.edu/download/43538449/Estratgia_para_o_Controle_dos_Robs_EyeBo20160309-7926-1uzffqi.pdf
      year: 2006
