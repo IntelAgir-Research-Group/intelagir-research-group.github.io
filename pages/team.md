@@ -25,16 +25,6 @@ team:
     desc: Adjunct Professor
     website: #
     url: #
-  - name: Dr. Flávio de Almeida e Silva
-    img: /img/people/flavio.jpeg
-    desc: Adjunct Professor
-    website: #
-    url: #
-  - name: Ms. Wellton Costa de Oliveira
-    img: /img/people/noimage.jpeg
-    desc: Adjunct Professor
-    website: #
-    url: #
 ---
 {% include list-squares.html items=page.team %}
 
