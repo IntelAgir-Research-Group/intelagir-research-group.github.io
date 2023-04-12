@@ -2,6 +2,14 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Automatic Extraction of Time-windowed ROS Computation Graphs from ROS Bag Files"
+    authors: Berry Chen, Michel Albonico, and Ivano Malavolta
+    venue: "Accepted for Robotic Software Architecture (RSA)@ICRA 2023"
+    doi: #
+    url: #
+    year: 2023
+    type: conference
+    
   - title: "Software engineering research on the Robot Operating System: A systematic mapping study"
     authors: Michel Albonico, Milica Dordevic, Engel Hamer, and Ivano Malavolta
     venue: "Journal of Systems and Software (JSS)"
