@@ -2,22 +2,6 @@
 layout: publications
 title: Publications
 publications:
-  - title: "Experiências de um Jogo Educacional Digital para auxiliar no Processo de Ensino-Aprendizagem de Transformações Químicas para o Ensino Médio"
-    authors: Roberto Mayer, Paulo Varela, Michel Albonico, Adair Rohling, and Vilmar Steffen 
-    venue: "28th Workshop de Informática na Escola (WEI)"
-    doi: https://doi.org/10.5753/wie.2022.224811
-    url: [Anais](https://sol.sbc.org.br/index.php/wie/article/view/22337)
-    year: 2022
-    type: conference
-
-  - title: "Mining Energy-Related Practices in Robotics Software"
-    authors: Gustavo Slomski, Adair Jose Rohling, Paulo Varela, and Michel Albonico 
-    venue: "18th International Symposium on Open Collaboration (OpenSym '22)"
-    doi: https://doi.org/10.1145/3555051.3555070
-    url: [ACM](https://dl.acm.org/doi/abs/10.1145/3555051.3555070)
-    year: 2022
-    type: conference
-
   - title: "Mining Energy-Related Practices in Robotics Software"
     authors: Michel Albonico, Ivano Malavolta, Gustavo Pinto, Emitza Guzman, Katerina Chinnappan, Patricia Lago
     venue: "18th International Conference on Mining Software Repositories (MSR)"
