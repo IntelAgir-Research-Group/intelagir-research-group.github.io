@@ -42,7 +42,8 @@ layout: page
             <option class="publication-dropdown" value = "other">Other</option>
         </select>
     </div>
-
+    {% assign 2023_items = page.publications | where: "year", "2023" %}
+    {% assign 2022_items = page.publications | where: "year", "2022" %}
     {% assign 2021_items = page.publications | where: "year", "2021" %}
     {% assign 2020_items = page.publications | where: "year", "2020" %}
     {% assign 2019_items = page.publications | where: "year", "2019" %}
@@ -55,12 +56,8 @@ layout: page
     {% assign 2012_items = page.publications | where: "year", "2012" %}
     {% assign 2011_items = page.publications | where: "year", "2011" %}
     {% assign 2010_items = page.publications | where: "year", "2010" %}
-    {% assign 2009_items = page.publications | where: "year", "2009" %}
     {% assign 2008_items = page.publications | where: "year", "2008" %}
-    {% assign 2007_items = page.publications | where: "year", "2007" %}
     {% assign 2006_items = page.publications | where: "year", "2006" %}
-    {% assign 2005_items = page.publications | where: "year", "2005" %}
-    {% assign 2004_items = page.publications | where: "year", "2004" %}
 
     {% assign journal_items = page.publications | where: "type", "article" %}
     {% assign conference_items = page.publications | where: "type", "conference" %}
@@ -70,6 +67,8 @@ layout: page
 
     <div id="all" style="display: None">
         <ol class="biblist" reversed>
+            {% include papers.html publications=2023_items %}
+            {% include papers.html publications=2022_items %}
             {% include papers.html publications=2021_items %}
             {% include papers.html publications=2020_items %}
             {% include papers.html publications=2019_items %}
@@ -82,12 +81,8 @@ layout: page
             {% include papers.html publications=2012_items %}
             {% include papers.html publications=2011_items %}
             {% include papers.html publications=2010_items %}
-            {% include papers.html publications=2009_items %}
             {% include papers.html publications=2008_items %}
-            {% include papers.html publications=2007_items %}
             {% include papers.html publications=2006_items %}
-            {% include papers.html publications=2005_items %}
-            {% include papers.html publications=2004_items %}
         </ol>
     </div>
 
@@ -126,6 +121,18 @@ layout: page
     </div>
 
         <div id="all-by-year">
+            <div id="2023-publications" class="publication-block">
+                <h3 class="publication-block-title">2023</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2023_items %}
+                </ol>
+            </div>
+             <div id="2022-publications" class="publication-block">
+                <h3 class="publication-block-title">2022</h3>
+                <ol class="biblist-by-year" reversed>
+                    {% include papers.html publications=2022_items %}
+                </ol>
+            </div>
             <div id="2021-publications" class="publication-block">
                 <h3 class="publication-block-title">2021</h3>
                 <ol class="biblist-by-year" reversed>
@@ -198,40 +205,16 @@ layout: page
                     {% include papers.html publications=2010_items %}
                 </ol>
             </div>
-            <div id="2009-publications" class="publication-block">
-                <h3 class="publication-block-title">2009</h3>
-                <ol class="biblist-by-year" reversed>
-                    {% include papers.html publications=2009_items %}
-                </ol>
-            </div>
             <div id="2008-publications" class="publication-block">
                 <h3 class="publication-block-title">2008</h3>
                 <ol class="biblist-by-year" reversed>
                     {% include papers.html publications=2008_items %}
                 </ol>
             </div>
-            <div id="2007-publications" class="publication-block">
-                <h3 class="publication-block-title">2007</h3>
-                <ol class="biblist-by-year" reversed>
-                    {% include papers.html publications=2007_items %}
-                </ol>
-            </div>
             <div id="2006-publications" class="publication-block">
                 <h3 class="publication-block-title">2006</h3>
                 <ol class="biblist-by-year" reversed>
                     {% include papers.html publications=2006_items %}
-                </ol>
-            </div>
-            <div id="2005-publications" class="publication-block">
-                <h3 class="publication-block-title">2005</h3>
-                <ol class="biblist-by-year" reversed>
-                    {% include papers.html publications=2005_items %}
-                </ol>
-            </div>
-            <div id="2004-publications" class="publication-block">
-                <h3 class="publication-block-title">2004</h3>
-                <ol class="biblist-by-year" reversed>
-                    {% include papers.html publications=2004_items %}
                 </ol>
             </div>
         </div>
