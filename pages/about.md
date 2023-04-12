@@ -6,9 +6,10 @@ title: About us
 
 The IntelAgir Research Group is composed of a few professors and undergraduate students (we still do not have a Master/Doctorate program on the Campus). Our goal is to apply some intelligence and automation in multiple domain areas, including:
 
-  - Smart Things in General (especially Smart City)
+  - Software Engineering
+  - Empirical Software Engineering
   - Robotics Software
-  - Cloud-based Software
+  - Continuum Computing
   - Natural Language Processing
   - Open Innovation
   - Gamification
