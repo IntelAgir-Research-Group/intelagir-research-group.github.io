@@ -2,6 +2,31 @@
 layout: publications
 title: Publications
 publications:
+
+  - title: "Software engineering research on the Robot Operating System: A systematic mapping study"
+    authors: Michel Albonico, Milica Đorđević, Engel Hamer, and Ivano Malavolta
+    venue: "Journal of Systems and Software (JSS)"
+    doi: 10.1016/j.jss.2022.111574
+    url: [ScienceDirect]([https://sol.sbc.org.br/index.php/wie/article/view/22337](https://www.sciencedirect.com/science/article/pii/S0164121222002503))
+    year: 2023
+    type: jounal
+
+  - title: "Experiências de um Jogo Educacional Digital para auxiliar no Processo de Ensino-Aprendizagem de Transformações Químicas para o Ensino Médio"
+    authors: Roberto Mayer, Paulo Varela, Michel Albonico, Adair Rohling, and Vilmar Steffen 
+    venue: "28th Workshop de Informática na Escola (WEI)"
+    doi: 10.5753/wie.2022.224811
+    url: [Anais](https://sol.sbc.org.br/index.php/wie/article/view/22337)
+    year: 2022
+    type: conference
+
+  - title: "Mining Energy-Related Practices in Robotics Software"
+    authors: Gustavo Slomski, Adair Jose Rohling, Paulo Varela, and Michel Albonico 
+    venue: "18th International Symposium on Open Collaboration (OpenSym '22)"
+    doi: 10.1145/3555051.3555070
+    url: [ACM](https://dl.acm.org/doi/abs/10.1145/3555051.3555070)
+    year: 2022
+    type: conference
+
   - title: "Mining Energy-Related Practices in Robotics Software"
     authors: Michel Albonico, Ivano Malavolta, Gustavo Pinto, Emitza Guzman, Katerina Chinnappan, Patricia Lago
     venue: "18th International Conference on Mining Software Repositories (MSR)"
@@ -32,7 +57,7 @@ publications:
     doi: https://doi.org/10.1109/TLA.2020.9082216
     url: https://latamt.ieeer9.org/index.php/transactions/article/download/1710/452
     year: 2020
-    type: article
+    type: journal
     
   - title: "Linguisticun: Uma Ferramenta de Auxílio ao Ensino da Língua Portuguesa e à Linguística Computacional"
     authors: Rosaine Fiorio, Paulo Varela, Michel Albonico, Jhonnatan Ricardo Semler 
@@ -44,7 +69,7 @@ publications:
     
   - title: "Towards Short Test Sequences for Performance Assessment of Elastic Cloud-based Systems"
     authors: Michel Albonico and Paulo Varela
-    venue: "CLOSER"
+    venue: "International Conference on Cloud Computing and Services Science"
     doi: #
     url: https://www.scitepress.org/Papers/2019/77585/77585.pdf
     year: 2019
@@ -80,15 +105,7 @@ publications:
     doi: https://doi.org/10.1007/978-3-319-94959-8_11
     url: #
     year: 2017
-    type: book
-  
-  - title: "A DSL-based Approach for Elasticity Testing of Cloud Systems"
-    authors: Michel Albonico, Amine Benelallam, Jean-Marie Mottu, Gerson Sunyé
-    venue: "HAL Open Science"
-    doi: # 
-    url: https://www.archives-ouvertes.fr/hal-01437137/document
-    year: 2017
-    type: open/unpublished
+    type: book chapter
     
   - title: "A DSL-based approach for elasticity testing of cloud systems"
     authors: M Albonico, A Benelallam, JM Mottu, G Sunyé
@@ -98,30 +115,6 @@ publications:
     year: 2016
     type: conference
     
-  - title: "Automated workload generation for testing elastic web applications"
-    authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: "HAL Open Science"
-    doi: #
-    url: https://hal.archives-ouvertes.fr/hal-01317723/document
-    year: 2016
-    type: open/unpublished
-    
-  - title: "Controlling the Elasticity of Web Applications on Cloud Computing-Extended Version"
-    authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: "HAL Open Science"
-    doi: #
-    url: https://hal.archives-ouvertes.fr/hal-01317715/document
-    year: 2016
-    type: open/unpublished
-    
-  - title: "Poster: A Procedure for Testing Applications Through Cloud Computing Elasticity"
-    authors: Michel Albonico, Jean-Marie Mottu, Gerson Sunyé
-    venue: "JDoc Day-ED STIM"
-    doi: "HAL Open Science"
-    url: http://hal.univ-nantes.fr/hal-01317543v1
-    year: 2016
-    type: open/unpublished
-    
   - title: "Testing MapReduce-Based Systems"
     authors: João Eugenio Marynowski, Michel Albonico, Eduardo Cunha de Almeida, Gerson Sunyé
     venue: "Simpósio Brasileiro de Banco de Dados"
@@ -130,14 +123,13 @@ publications:
     year: 2012
     type: conference
     
-    
   - title: "A SUSTENTABILIDADE NA VISÃO DO GESTOR E DOS COLABORADORES: UM ESTUDO CORRELACIONAL"
     authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes
     venue: "Revista Livre de Sustentabilidade e Empreendedorismo"
     doi: # 
     url: http://relise.eco.br/index.php/relise/article/view/500/537 
     year: 2021
-    type: article
+    type: journal
     
   - title: "Inovação social em habitats de inovação: estudo de caso em um hotel tecnológico do Paraná"
     authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Lindomar Subtil de Oliveira
@@ -145,7 +137,7 @@ publications:
     doi: #
     url: https://www.redalyc.org/jatsRepo/4777/477764617005/477764617005.pdf
     year: 2020
-    type: article
+    type: journal
     
   - title: "Innovation diagnosis in technology companies of a regional innovation system"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Andriele De Prá Carvalho, Melaine Camarotto, Paula Zarelli
@@ -153,7 +145,7 @@ publications:
     doi: https://doi.org/10.14488/BJOPM.2020.032
     url: https://bjopm.emnuvens.com.br/bjopm/article/view/997/940
     year: 2020
-    type: article
+    type: journal
     
   - title: "Framework proposal for open innovation implementation in SMEs of regional innovation systems"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
@@ -161,7 +153,7 @@ publications:
     doi: http://dx.doi.org/10.4067/S0718-27242019000200014 
     url: #
     year: 2019
-    type: article
+    type: journal
     
   - title: "Open innovation in regional innovation systems: Assessment of critical success factors for implementation in SMEs"
     authors: Lindomar Subtil de Oliveira, Márcia E Soares Echeveste, Marcelo Nogueira Cortimiglia, Aline C Gularte
@@ -169,7 +161,7 @@ publications:
     doi: https://doi.org/10.1007/s13132-019-00619-y
     url: #
     year: 2019
-    type: article
+    type: journal
     
   - title: "Inovação social: Análise em habitats de inovação"
     authors: Paula Regina Zarelli, Andriele De Prá Carvalho, Maria Luiza Kock, LS Oliveira
@@ -185,7 +177,7 @@ publications:
     doi: https://doi.org/10.1108/JOCM-11-2017-0416
     url: #
     year: 2018
-    type: article
+    type: journal
   
   - title: "Analysis of Determinants for open innovation implementation in regional innovation systems"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, César Giovani Colini Gonçalves
@@ -193,7 +185,7 @@ publications:
     doi: https://doi.org/10.1016/j.rai.2017.03.006
     url: #
     year: 2017
-    type: article
+    type: journal
    
   - title: "The effect of innovation activities on innovation outputs in the Brazilian industry: Market-orientation vs. technology-acquisition strategies"
     authors: Alejandro Germán Frank, Marcelo Nogueira Cortimiglia, José Luis Duarte Ribeiro, Lindomar Subtil de Oliveira 
@@ -201,7 +193,7 @@ publications:
     doi: https://doi.org/10.1016/j.respol.2015.11.011
     url: #
     year: 2016
-    type: article
+    type: journal
     
   - title: "Análise bibliométrica e principais dimensões da literatura sobre open innovation"
     authors: Lindomar Subtil de Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia, Andriele de Prá Carvalho 
@@ -209,7 +201,7 @@ publications:
     doi: #
     url: http://stat.intraducoes.incubadora.ufsc.br/index.php/IJKEM/article/view/3815/4403
     year: 2016
-    type: article
+    type: journal
     
   - title: "GESTÃO DE REQUISITOS PARA UM PORTAL DE INOVAÇÃO ABERTA"
     authors: Lindomar Subtil de Oliveira, Jonatas O Scherer, Manoel Nascimento, Márcia Elisa Soares Echeveste, Patrícia F Magnago
@@ -217,7 +209,7 @@ publications:
     doi: https://doi.org/10.20985/1980-5160.2016.v11n1.827
     url: #
     year: 2016
-    type: article
+    type: journal
     
   - title: "Processo de Implementação da Open Innovation: Proposta para Empresas de Sistemas Regionais de Inovação"
     authors: Lindomar Subtil De Oliveira, Márcia Elisa Soares Echeveste, Marcelo Nogueira Cortimiglia
@@ -225,7 +217,7 @@ publications:
     doi: #
     url: https://www.redalyc.org/pdf/2150/215049679003.pdf
     year: 2016
-    type: article
+    type: journal
     
   - title: "Identificação de requisitos para um portal de inovação aberta"
     authors: Lindomar Subtil de Oliveira, Jonatas Ost Scherer, Manoel do Nascimento Filho, Marcia Elisa Soares Echeveste
@@ -233,7 +225,7 @@ publications:
     doi: # 
     url: https://www.lume.ufrgs.br/bitstream/handle/10183/172643/001059291.pdf?sequence=1
     year: 2016
-    type: article
+    type: journal
     
   - title: "Implantação e avaliação das Boas Práticas de Fabricação–BPF: estudo de caso"
     authors: Marcia Regina Sinhorini, Lindomar Subtil de OLIVEIRA, Alexandre da Trindade Alfaro 
@@ -241,7 +233,7 @@ publications:
     doi: #
     url: https://docs.bvsalud.org/biblioref/ses-sp/2015/ses-32823/ses-32823-6080.pdf
     year: 2015
-    type: article
+    type: journal
     
   - title: "Competitividade e inovação regional"
     authors: Andriele de Prá Carvalho, Dalcio Roberto dos Reis, Eloiza Avila de Matos, Lindomar Subtil de Oliveira
@@ -249,7 +241,7 @@ publications:
     doi: https://doi.org/10.48075/comsus.v2i2.13866
     url: #
     year: 2015
-    type: article
+    type: journal
     
   - title: "Plano de ação para produção e consumo sustentável no Brasil"
     authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Júlio Henrique Ely Zibetti, Renata Tilemann Facó, Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber ten Caten
@@ -257,7 +249,7 @@ publications:
     doi: #
     url: https://revistageintec.net/index.php/revista/article/view/635/589
     year: 2015
-    type: article
+    type: journal
     
   - title: "Análise do Plano de Ação para Produção e do Consumo Sustentável no Brasil"
     authors: Luan Carlos Santos Silva, Lindomar Subtil de Oliveira, Julio Henrique Ely Zibetti, Renata Tilemann Facó,Istefani Carísio de Paula, Marcia Elisa Soares Echeveste, Carla Schwengber Ten Caten 
@@ -265,7 +257,7 @@ publications:
     doi: #
     url: https://www.lume.ufrgs.br/bitstream/handle/10183/172604/001059341.pdf?sequence=1
     year: 2015
-    type: article
+    type: journal
     
   - title: "Políticas públicas e os arranjos produtivos locais: direção para a competitividade e desenvolvimento econômico regional"
     authors: Lindomar Subtil de Oliveira, Leila Cristina Huppes, Marcelo Nogueira Cortimiglia, Marcia Elisa Soares Echeveste 
@@ -281,7 +273,7 @@ publications:
     doi: https://doi.org/10.1590/S0103-65132012005000052
     url: https://www.scielo.br/j/prod/a/89PCXVGqZvgmDxNRFtK7yvv/?format=pdf&lang=pt
     year: 2012
-    type: article
+    type: journal
     
   - title: "Os sistemas ERP’s como vantagem competitiva na integração da cadeia de suprimentos dos Aglomerados Industriais"
     authors: Lindomar Subtil de Oliveira, Kazuo Hatakeyama, Patrícia Guarnieri, Dario Eduardo A Dergint
@@ -305,7 +297,7 @@ publications:
     doi: #
     url: https://www.revistas.uepg.br/index.php/humanas/article/view/557/556
     year: 2006
-    type: article
+    type: journal
     
   - title: "A implantação do sistema ERP e a utilização das novas: Estudo de caso em uma empresa multinacional"
     authors: Lindomar Subtil de Oliveira, Luiz Olívio Bortolli, Kazuo Hatakeyama
@@ -314,15 +306,21 @@ publications:
     url: #
     year: 2006
     type: conference
-   
-    
+  
   - title: "Arquiteturas de Referência para Sistemas-de-Sistemas: um Mapeamento Sistemático"
     authors: Priscilla Elizabeth Pereira Batista, Renato de Freitas Bulcão Neto, Carlos Eduardo de Barros Paes, Eliomar Araujo de Lima, Adair José Rohling, Valdemar Vicente Graciano Neto
     venue: "iSys-Brazilian Journal of Information Systems"
     doi: https://doi.org/10.5753/isys.2021.988
     url: #
     year: 2021
-    type: article
+    type: journal
+    
+  - title: "Changes of Affective States in Intelligent Tutoring System to Improve Feedbacks Through Low-Cost and Open Electroencephalogram and Facial Expression"
+    authors: Wellton Costa de Oliveira, Ernani Gottardo, and Andrey Ricardo Pimentel
+    doi: https://doi.org/0.1007/978-3-030-49663-0_8
+    url: #
+    year: 2020
+    type: conference
     
   - title: "A reference architecture for satellite control systems"
     authors: Adair José Rohling, Valdemar Vicente Graciano Neto, Mauricio Gonçalves Vieira Ferreira, Walter Abrahão Dos Santos, Elisa Yumi Nakagawa
@@ -330,7 +328,7 @@ publications:
     doi: https://doi.org/10.1007/s11334-019-00322-w
     url: #
     year: 2019
-    type: article
+    type: journal
     
   - title: "Modeling & simulation of software architectures of systems-of-systems: An industrial report on the brazilian space system"
     authors: Valdemar Vicente Graciano Neto, Carlos Eduardo Paes, Adair José Rohling, Wallace Manzano, Elisa Yumi Nakagawa 
@@ -338,7 +336,7 @@ publications:
     doi: https://doi.org/10.23919/SpringSim.2019.8732870
     url: #
     year: 2019
-    type: article
+    type: journal
     
   - title: "Evolução Arquitetural em Sistemas de Controle de Satélites"
     authors: Adair J Rohling, Valdemar VG Neto, Elisa Y Nakagawa, Mauricio GV Ferreira
@@ -378,7 +376,7 @@ publications:
     doi: # 
     url: http://mtc-m21c.sid.inpe.br/col/sid.inpe.br/mtc-m21c/2018/09.11.17.51/doc/publicacao.pdf
     year: 2018
-    type: article
+    type: journal
     
   - title: "Concurrent Structured Analysis SE method applied to a solar irradiance monitor satellite"
     authors: Rodrigo Britto Maria, Halph Macedo Fraulob, Adrielle Chiaki, Gabriel G Coronel M, Adair Rohling, Geilson Loureiro
@@ -386,7 +384,7 @@ publications:
     doi: https://doi.org/10.1002/j.2334-5837.2016.00183.x
     url: #
     year: 2016
-    type: article
+    type: journal
     
   - title: "Integration of the INPE Ground Station into the SATNet Network for Supporting Small Satellites Programs in Brazil"
     authors: R Tubío-Pardavila, Jorge Enrique Espindola Diaz, AJ Rohling, MGV Ferreira, WA Dos Santos, J Puig-Suari, Fernando Aguado-Agelet 
@@ -418,7 +416,7 @@ publications:
     doi: https://doi.org/10.1109/TLA.2016.7430088
     url: http://www.projectsgoal.com/download_projects/natural-language-processing/natural-language-processing-projects-GNLP00087.pdf
     year: 2016
-    type: article
+    type: journal
     
   - title: "Uma experiência prática da inserção da robótica e seus benefícios como ferramenta educativa em escolas públicas"
     authors: Rosaine Fiorio, Rauany J Esperandim, Flávio A Silva, Paulo J Varela, Maici Duarte Leite, Francisco Antonio Fernandes Reinaldo 
