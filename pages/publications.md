@@ -2,14 +2,6 @@
 layout: publications
 title: Publications
 publications:
-  - title: "Software engineering research on the Robot Operating System: A systematic mapping study"
-    authors: Michel Albonico, Milica Dordevic, Engel Hamer, and Ivano Malavolta
-    venue: "Journal of Systems and Software (JSS)"
-    doi: https://doi.org/10.1016/j.jss.2022.111574
-    url: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121222002503)
-    year: 2023
-    type: jounal
-
   - title: "Experiências de um Jogo Educacional Digital para auxiliar no Processo de Ensino-Aprendizagem de Transformações Químicas para o Ensino Médio"
     authors: Roberto Mayer, Paulo Varela, Michel Albonico, Adair Rohling, and Vilmar Steffen 
     venue: "28th Workshop de Informática na Escola (WEI)"
