@@ -2,7 +2,6 @@
 layout: publications
 title: Publications
 publications:
-
   - title: "Software engineering research on the Robot Operating System: A systematic mapping study"
     authors: Michel Albonico, Milica Đorđević, Engel Hamer, and Ivano Malavolta
     venue: "Journal of Systems and Software (JSS)"
