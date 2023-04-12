@@ -3,17 +3,17 @@ layout: publications
 title: Publications
 publications:
   - title: "Software engineering research on the Robot Operating System: A systematic mapping study"
-    authors: Michel Albonico, Milica Đorđević, Engel Hamer, and Ivano Malavolta
+    authors: Michel Albonico, Milica Dordevic, Engel Hamer, and Ivano Malavolta
     venue: "Journal of Systems and Software (JSS)"
-    doi: 10.1016/j.jss.2022.111574
-    url: [ScienceDirect]([https://sol.sbc.org.br/index.php/wie/article/view/22337](https://www.sciencedirect.com/science/article/pii/S0164121222002503))
+    doi: https://doi.org/10.1016/j.jss.2022.111574
+    url: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0164121222002503)
     year: 2023
     type: jounal
 
   - title: "Experiências de um Jogo Educacional Digital para auxiliar no Processo de Ensino-Aprendizagem de Transformações Químicas para o Ensino Médio"
     authors: Roberto Mayer, Paulo Varela, Michel Albonico, Adair Rohling, and Vilmar Steffen 
     venue: "28th Workshop de Informática na Escola (WEI)"
-    doi: 10.5753/wie.2022.224811
+    doi: https://doi.org/10.5753/wie.2022.224811
     url: [Anais](https://sol.sbc.org.br/index.php/wie/article/view/22337)
     year: 2022
     type: conference
@@ -21,7 +21,7 @@ publications:
   - title: "Mining Energy-Related Practices in Robotics Software"
     authors: Gustavo Slomski, Adair Jose Rohling, Paulo Varela, and Michel Albonico 
     venue: "18th International Symposium on Open Collaboration (OpenSym '22)"
-    doi: 10.1145/3555051.3555070
+    doi: https://doi.org/10.1145/3555051.3555070
     url: [ACM](https://dl.acm.org/doi/abs/10.1145/3555051.3555070)
     year: 2022
     type: conference
@@ -29,7 +29,7 @@ publications:
   - title: "Mining Energy-Related Practices in Robotics Software"
     authors: Michel Albonico, Ivano Malavolta, Gustavo Pinto, Emitza Guzman, Katerina Chinnappan, Patricia Lago
     venue: "18th International Conference on Mining Software Repositories (MSR)"
-    doi: #
+    doi: https://doi.org/10.1109/MSR52588.2021.00060
     url: https://arxiv.org/pdf/2103.13762.pdf
     year: 2021
     type: conference
