@@ -24,26 +24,24 @@ This is a list of robotics initiatives in Brazil. It is not restricted to IntelA
 </div>
 </div></div>
 </div>
-
-<!--
-# Ongoing research projects 
+    
 <br>
 <div class="row ">
 
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;">
 <figure>
-    <img src="/img/logos/placeholder_img.png"
+    <img src="/img/logos/green_sd.jpeg"
          alt="">
     <figcaption></figcaption>
 </figure>
-<div><strong style="color: #00FF00;">Green Tactics for Robotics Software</strong><br>
+<div><strong style="color: #00FF00;">GreenROS</strong><br>
 <div style="text-align:left;">
-The project allows roboticists to design energy-efficient robotics software via experimentally-validated Green tactics. Green tactics are extracted by mining millions of lines of code of real-world robotics software. The grant is offered in the context of the <a href="https://www.nwo.nl/en/calls/open-competition-domain-science-xs-pakket-21-1">NWO Open Competition Domain Science – XS</a> scheme. <a href="http://www.ivanomalavolta.com/mining-the-ros-ecosystem-for-energy-efficient-robotics-software/">[Read more.]<br><br><br><br></a> 
+The project aims at researching energy-efficient alternatives to robotics software. It is a result of a continuous collaboration between IntelAgir Research Group and S2 Group (VU Amsterdam).<br><br><br><br>
 </div>
 </div></div>
 </div>
--->
+
 <!--
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;">
