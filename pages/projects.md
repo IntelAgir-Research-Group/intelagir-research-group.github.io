@@ -3,9 +3,27 @@ layout: page
 title: Research Projects
 ---
 
-Sorry, we are still working on this page. Soon, you will be able to see all the projects that are going on.
+
 
 <!-- subtitle: X  -->
+# External Links 
+
+<br>
+<div class="row ">
+
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;">
+<figure>
+    <img src="/img/logos/logo-awesome.png"
+         alt="">
+    <figcaption></figcaption>
+</figure>
+<div><strong style="color: #00FF00;">Awesome Robotics Brazil</strong><br>
+<div style="text-align:left;">
+This is a [list](https://github.com/mateus-amarante/awesome-robotics-brazil) of robotics initiatives in Brazil<br><br><br><br></a> 
+</div>
+</div></div>
+</div>
 
 <!--
 # Ongoing research projects 
@@ -25,7 +43,8 @@ The project allows roboticists to design energy-efficient robotics software via 
 </div>
 </div></div>
 </div>
-
+-->
+<!--
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;">
 <figure>
