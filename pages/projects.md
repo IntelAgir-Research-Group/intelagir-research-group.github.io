@@ -6,7 +6,7 @@ title: Research Projects
 
 
 <!-- subtitle: X  -->
-# External Links 
+<!-- # External Links -->
 
 <br>
 <div class="row ">
@@ -18,9 +18,9 @@ title: Research Projects
          alt="">
     <figcaption></figcaption>
 </figure>
-<div><strong style="color: #00FF00;">Awesome Robotics Brazil</strong><br>
+    <div><strong style="color: #00FF00;"><a href="https://github.com/mateus-amarante/awesome-robotics-brazil">Awesome Robotics Brazil</a></strong><br>
 <div style="text-align:left;">
-This is a [list](https://github.com/mateus-amarante/awesome-robotics-brazil) of robotics initiatives in Brazil<br><br><br><br></a> 
+This is a list of robotics initiatives in Brazil. It is not restricted to IntelAgir Research Group.<br><br><br><br>
 </div>
 </div></div>
 </div>
