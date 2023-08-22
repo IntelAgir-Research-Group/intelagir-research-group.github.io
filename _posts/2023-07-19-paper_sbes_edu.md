@@ -6,5 +6,4 @@ comments: true
 ---
 
 Great news!!!
-
 Our paper ***A Report on the Use of ChatGPT in Software Engineering and Systems Analysis Courses*** was accepted for publication at SBES2023/Education track.
