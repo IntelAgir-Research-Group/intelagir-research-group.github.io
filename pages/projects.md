@@ -16,7 +16,7 @@ title: Research Projects
             </figure>
             <div><strong style="color: #00FF00;">GreenROS</strong><br>
                 <div style="text-align:left;">
-                The project aims at researching energy-efficient alternatives to robotics software. It is a result of a continuous collaboration between IntelAgir Research Group and S2 Group (VU Amsterdam).<br><br><br><br>
+                The project aims at researching energy-efficient alternatives to robotics software. It is a result of continuous collaboration between IntelAgir Research Group and S2 Group (VU Amsterdam).<br><br><br><br>
                 </div>
             </div>
         </div>    
@@ -30,8 +30,7 @@ title: Research Projects
             </figure>
             <div><strong style="color: #00FF00;">Transformar</strong><br>
                 <div style="text-align:left;">
-               In this project, led by Paulo Varela, we transform illegal TVBox/IPTV equipments seized by the Customs into microcomputers, and deliver them to public schools in the region of Francisco Beltrão. Read more about it [here](utfpr.edu.br/noticias/geral/divulgacao-cientifica/projeto-transforma-equipamento-pirata-em-computador-para-escolas).
-                    <br><br>
+               In this project, led by Paulo Varela, we transform illegal TVBox/IPTV equipments seized by the Customs into microcomputers and deliver them to public schools in the region of Francisco Beltrão.                     <br><br>
                 </div>
             </div>
         </div>    
