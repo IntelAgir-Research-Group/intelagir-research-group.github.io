@@ -21,6 +21,21 @@ title: Research Projects
             </div>
         </div>    
     </div>
+    <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+        <div style="text-align: center;">
+            <figure>
+                <img src="/img/logos/transformar.jpeg"
+                     alt="">
+                <figcaption></figcaption>
+            </figure>
+            <div><strong style="color: #00FF00;">Transformar</strong><br>
+                <div style="text-align:left;">
+               In this project, led by Paulo Varela, we transform illegal TVBox/IPTV equipments seized by the Customs into microcomputers, and deliver them to public schools in the region of Francisco Beltrão. Read more about it [here](utfpr.edu.br/noticias/geral/divulgacao-cientifica/projeto-transforma-equipamento-pirata-em-computador-para-escolas).
+                    <br><br>
+                </div>
+            </div>
+        </div>    
+    </div>
 </div>
 <br>
 
