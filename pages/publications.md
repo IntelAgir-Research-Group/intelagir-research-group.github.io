@@ -2,6 +2,14 @@
 layout: publications
 title: Publications
 publications:
+  - title: "A Report on the Use of ChatGPT in Software Engineering and Systems Analysis Courses"
+    authors: Michel Albonico, and Paulo Junior Varela
+    venue: "XXXVII Brazilian Symposium on Software Engineering/Education Track"
+    doi: https://doi.org/10.1145/3613372.3614189
+    url: #
+    year: 2023
+    type: conference
+
   - title: "Automatic Extraction of Time-windowed ROS Computation Graphs from ROS Bag Files"
     authors: Berry Chen, Michel Albonico, and Ivano Malavolta
     venue: "Accepted for Robotic Software Architecture (RSA)@ICRA 2023"
