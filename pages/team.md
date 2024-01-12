@@ -39,26 +39,29 @@ team:
 {% include list-squares.html items=page.team %}
 
 # Students
-- [Alexandre Juarez Corneau](#) - Research Project
-- [Jeferson Renan](#) - Bachelor Project
+
 - [Juliano Soares dos Santos	](#) - Bachelor Project
-- [Lucas Augusto Peruffo](#) - Bachelor Project
+- [Ricardo de Souza](#) - Master's Student@UTFPR Curitiba
+- [Maciel Felipe Borges](http://lattes.cnpq.br/1680502375656921) - Master's Student@UTFPR Cornélio Procópio/Dois Vizinhos 
 
 # Guests
-- [Ricardo de Souza](#) - Potential Master's Student
+
 - [Gustavo Henrique Beltrani Slomski](https://www.linkedin.com/in/gustavo-slomski-97453a223) - Software Industry Consultant
-- [Maciel Felipe Borges](http://lattes.cnpq.br/1680502375656921) - Potential Master's Student 
 
 # External Collaborators
-- [Ivano Malavolta (VU Amsterdam)](https://www.ivanomalavolta.com/) - GreenROS Project
+- [Ivano Malavolta (VU Amsterdam)](https://www.ivanomalavolta.com/) - ML4GreenROS Project
+- [Andreas Wortmman (ISW@University of Stuttgart)](https://awortmann.github.io/) - ML4GreenROS Project
+- [Nuno Macedo (INESC/TEC - Universidade do Porto)](https://nmacedo.github.io/) - Higly-configurable Robotic Software
 
 # Former Members
+- [Lucas Augusto Peruffo](#) - Bachelor Project
+- [Alexandre Juarez Corneau](#) - PIBIC Intern
 - [Marlon Henrique Scalabrin](#) - Assistant Professor
 - [Rodrigo Tomaz Pagno](#) - Assistant Professor
-- [Bruno Cardoso](#) - Research Project
-- [Leonardo Pilatti dal Puppo](#) - Research Project
+- [Bruno Cardoso](#) - PIBIC Intern
+- [Leonardo Pilatti dal Puppo](#) - PIBIC Intern
 - [Jhonnatan Ricardo Semler](#) - Technical Collaborator
 - [Rosaine Fiorio Semler](https://www.linkedin.com/in/rosaine-semler/?originalSubdomain=de) - External Collaborator
-- [João Lucas Varela de Assis](#) - Bachelor Student
+- [João Lucas Varela de Assis](#) - Bachelor Project
 
 
