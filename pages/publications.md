@@ -2,6 +2,30 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Energy Efficiency of ROS Nodes in Different Languages: Publisher/Subscriber Case Studies"
+    authors: Michel Albonico, Paulo Júnior Varela, Adair José Rohling and Andreas Wortmann
+    venue: "International Workshop on Robotics Software Engineering (RoSE)"
+    doi: #
+    url: #
+    year: 2024
+    type: conference
+
+  - title: "Computation offloading for ground robotic systems communicating over WiFi – an empirical exploration on performance and energy trade-offs"
+    authors: Milica Dordevic, Michel Albonico, Grace A. Lewis, Ivano Malavolta, and Patricia Lago
+    venue: "Empirical Software Engineering"
+    doi: https://doi.org/10.1007/s10664-023-10351-6
+    url: https://link.springer.com/article/10.1007/s10664-023-10351-6
+    year: 2023
+    type: article
+
+  - title: "Projeto Transformar: Conversão de Equipamentos Eletrônicos Ilegais (IPTV´s) em Minicomputadores para Enfrentar as Desigualdades Educacionais em Escolas Públicas"
+    authors: Paulo Junior Varela, Marieli A. Santos, Eric Endres, Maici Duarte Leite, Michel Albonico, Mark Tollemache, and Simone R. V. Felicio
+    venue: "Workshop de Informática na Escola (WIE)"
+    doi: https://doi.org/10.5753/wie.2023.233859
+    url: #
+    year: 2023
+    type: conference
+
   - title: "A Report on the Use of ChatGPT in Software Engineering and Systems Analysis Courses"
     authors: Michel Albonico, and Paulo Junior Varela
     venue: "XXXVII Brazilian Symposium on Software Engineering/Education Track"
