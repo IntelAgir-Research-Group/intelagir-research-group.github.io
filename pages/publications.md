@@ -3,7 +3,7 @@ layout: publications
 title: Publications
 publications:
   - title: "Energy Efficiency of ROS Nodes in Different Languages: Publisher-Subscriber Case Studies"
-    authors: Michel Albonico, Paulo Júnior Varela, Adair José Rohling and Andreas Wortmann
+    authors: Michel Albonico, Paulo Junior Varela, Adair Rohling and Andreas Wortmann
     venue: "International Workshop on Robotics Software Engineering (RoSE)"
     doi: https://doi.org/#
     url: #
