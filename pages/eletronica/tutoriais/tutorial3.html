@@ -1,18 +1,243 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conteúdo 3</title>
     <link rel="stylesheet" href="../css/estilo-tutorial.css">
 </head>
+
 <body>
     <div class="container">
-        <h1>Conteúdo 3</h1>
+        <h1>Conteúdo 3 - Sensores: Sensor de Temperatura TMP36</h1>
+        <!--
         <p>Descrição do conteúdo 3.</p>
+        <header>
+            <h1>
+                🤖 ELETRÔNICA COM ARDUINO 🖥️
+            </h1>
+        </header>
+        -->
+        <p>
+            <strong>Sobre a aula:</strong><br>
+        <ul>
+            <li>Compreender que os sensores são componentes responsáveis pela percepção e
+                interação dos robôs com o mundo;</li>
+            <li>Entender a funcionalidade do sensor de temperatura TMP36 e como ele pode ser incorporado num
+                circuito eletrônico com a placa Arduino;</li>
+            <li>Criar um circuito para medir a temperatura do ambiente e graus celsius (°C).</li>
+        </ul>
+        </p>
+        <p>
+            <strong>Materiais para aula:</strong>
+        </p>
+
+        <ul>
+            <li>1 x Arduino Uno;</li>
+            <li>1 x Protoboard 400 pontos;</li>
+            <li>1 x Cabo USB para comunicação;</li>
+            <li>1 x Sensor de Temperatura TMP36;</li>
+            <li>2 X Resistores de 150 Ω;</li>
+            <li>2 x Led de 5mm;</li>
+            <li>7 x Jumpers.</li>
+        </ul>
+        <hr>
+
+        <h3>Título da aula</h3>
+
+        <div class="container2">
+            <h2>Sensores de temperatura</h2>
+        </div>
+
+        <p>
+            <strong>Orientações:</strong>
+            Ler o tema da aula e comentar com os alunos sobre como
+            os sensores de temperatura são capazes de medir a temperatura ambiente
+            e, quando conectados ao Arduino, fornecem informações para uma variedade de aplicações.
+            Desde o monitoramento da temperatura em ambientes controlados até o desenvolvimento
+            de dispositivos de alerta de condições adversas, como aquecimento excessivo.
+        </p>
+        <hr>
+
+        <h3>Contexto</h3>
+
+        <p>
+            <b>Orientações:</b>
+            Construa um cenário que incentive a conversa em sala de aula para que os alunos possam
+            reconhecer a análise da imagem. Essa conversa inicial é para debater o significado
+            das palavras <b>sensor</b> e <b>temperatura</b>, que deve ser baseada em imagens e
+            explicações sobre o assunto.
+        </p>
+
+        <br><br><br>
+
+        <img class="ArduinoDisplayed" src="../img/termometros.png" alt="Imagem sensores de temperatura"
+            title="Sensroes de temperatura">
+        <p style="text-align:center;"><b>Imagem sensores de temperatura</b><br>
+        </p>
+        <br>
+        <br>
+
+        <p><b>1. Quais são os principais tipos de sensores usados para medir temperatura em sistemas eletrônicos?</b>
+        </p>
+
+        <p><b>2. Quais são as escalas de medida de temperatura mais comuns? </b></p>
+
+        <hr>
+
+        <h3>Questão Disparadora</h3>
+        <p>Após o levantamento prévio do conhecimento dos alunos,
+            apresenta-se a questão disparadora.</p>
+
+        <div class="container2">
+            <h2>Dentro do universo do Arduino para que servem os sensores de temperatura?</h2>
+        </div>
+
+        <p>
+            <b>Orientações:</b>
+            Ouça as respostas dos alunos, não é preciso fazer anotações,
+            pois essas discussões serão organizadas ao término desta proposta de aula.
+            <br><br>
+
+        </p>
+        <hr>
+
+        <h3>Atividade Investigativa</h3>
+
+        <p>
+            <b>Orientações:</b>
+            Comece explicando aos alunos o que é um sensor de tempertura TMP36
+            e como ele funciona. Destaque que um sensor TMP36 tem a finalidade
+            de medir a temperatura do ambiente utilizando o Arduino, e é composto de
+            3 terminais conforme a figura, sua alimentação funciona na faixa de
+            2.7V a 5.5V, não necessita de ajustes externos para seu funcionamento,
+            ele também fornece uma saída de tensão diretamente proporcional a temperatura
+            em graus celsius, com precisão de ±1°C na faixa 1°C a 25°C e ±2°C para a faixa de -40°C a 125°C.
+            <br>
+            <br>
+            Peça para os alunos acessarem o link do projeto a seguir:
+
+        </p>
+        <div class="container_AtivInvest">
+            <div id="texto_AtivInvest">
+                <p>
+                    <a href="https://www.tinkercad.com/things/5vHB9XZR9XI-medir-a-temperatura-em-c-com-sensor-tmp36-?sharecode=IU-uW0Zj5Yq_OhMg2LMnxYo_Fc4tW6etTe4OonRvuWY"
+                        target="_blank">Atividade medir temperatura com sensor TMP36 e visualizar no monitor serial</a>
+
+                <ol>
+                    <li>De acordo com projeto elaborado no Tinkercad qual é o menor
+                        valor de tempertura em medido em °C (graus celsius) pelo sensor TMP36?</li>
+                    <li>De acordo com projeto elaborado no Tinkercad qual é o maior
+                        valor de tempertura em medido em °C (graus celsius) pelo sensor TMP36?</li>
+                </ol>
+
+                <br>
+                </p>
+            </div>
+            <img class="ComponentsDisplayed" src="../img/sensorTemperaturaTMP36.png" alt="Sensor TMP36" title="Sensor TMP36">
+        </div>
+        <br><br>
+        <a href="https://www.sistemasinterativoscomarduino.net/2020/06/projeto-usando-sensores-de-temperatura.html"
+            target="_blank">Tutorial Usando sensor de temperatura com Arduino</a>
+        <br>
+        <br>
+        <br>
+        <a href="https://mundoeducacao.uol.com.br/fisica/escalas-termometricas.htm" target="_blank">Aprenda
+            sobre
+            escalas de medida de temperatura</a>
+        <br>
+        <br>
+        <hr>
+
+        <h3>Sistematização</h3>
+        <p>
+            <b>Descreva os conceitos de eletrônica utilizados para
+                construção de um circuito com sensor TMP36 e Arduino:</b>
+        </p>
+        <br><br><br>
+
+        <img class="ArduinoDisplayed" src="../img/medirTemperaturaTMP36.png" alt="Conceitos de básicos eletrônica"
+            title="Circuito com sensor TMP36">
+        <p style="text-align:center;"><strong>Circuito com sensor TMP36</strong></p>
+        <br><br><br>
+
+        <p>
+        <ol>
+            <li>Qual é o princípio de funcionamento do sensor TMP36?</li>
+            <li>Como o sensor TMP36 detecta a temperatura do ambiente?</li>
+            <li>Dê exemplos de projetos que poderiam se beneficiar do uso deste sensor:</li>
+        </ol>
+        <br>
+        </p>
+        <hr>
+        <h3>Atividade Prática</h3>
+
+        <p>
+            Utilizar a plataforma de simulação online Thinkercad.
+            <br><br>
+            Para montar o circuito na protoboard observe os seguintes pontos:
+        <ul>
+            <li>
+                O sensor TMP36, tem 3 terminais VCC, sinal e GND.
+            </li>
+            <li>
+                Primeiramente o pino digital 9 e 6 estão designados para acionar os LEDs verde e vermelho,
+                pino analógico 0 para receber as informações do sensor e o pino 5v para alimentar o sensor
+                de temperatura. Ao ligar a placa o pino de 5v alimenta até a saída da tensão pelo pino GND,
+                enquanto isso o sensor irá realizar a leitura da temperatura e enviará as informações através
+                do pino A0, acionando a tensão de 5v para os LEDs conectados ao pino D9 e D6, onde irá
+                fluir até o pino GND.
+            </li>
+        </ul>
+        <br><br>
+
+        <img class="ArduinoDisplayed" src="../img/ligarLED_TMP36.png" alt="Conceitos de básicos eletrônica"
+            title="Circuito com sensor TMP36">
+        <p style="text-align:center;"><strong>Circuito base para a atividade</strong></p>
+        <br><br><br>
+        Acessar o link da atividade a seguir:
+        <br><br>
+
+        <a href="https://www.tinkercad.com/things/brUA6npQqcx-ligar-leds-com-sensor-de-temperatura-tmp36?sharecode=FN7_WEXN-OjKNBtlcb4Y9AfCnJ6J7E3D-_QhzIGFI9M"
+            target="_blank">Atividade ligar LEDs com sensor de temperatura TMP36</a>
+        </p>
+        <hr>
+        <h3>Materiais de apoio:</h3>
+        <p>
+            
+            <a href="https://flaviobabos.com.br/sensor-de-temperatura-arduino/"
+                target="_blank">Sensores de temperatura: LM35 | TMP36 | DS18B20 (Completo);</a>
+            <br>
+            <br>
+            
+            <a href="https://www.makerhero.com/blog/como-utilizar-um-sensor-de-temperatura/"
+                target="_blank">Como utilizar um sensor de temperatura com Arduino?</a>
+            <br>
+            <br>
+          
+            <a href="https://embarcados.com.br/leitura-de-temperatura-ambiente-com-o-sensor-lm35/"
+                target="_blank">Leitura de temperatura ambiente com o sensor LM35.</a>
+            <br>
+            <br>
+            <!--
+            <b>*Indicação de conteúdo*</b><br>
+            Faça o download da apostila e confira:
+            Exemplo 4 - Acionamento de LED conforme do Luz ambiente
+            <br>
+            Eletrogate - Apostila Arduino Iniciante:
+            <a href="https://conteudo.eletrogate.com/apostila-arduino-iniciante"
+                target="_blank">https://conteudo.eletrogate.com/apostila-arduino-iniciante</a>
+            <br>
+            <br>
+            <br>
+            -->
+        </p>
+        <hr>
         <div class="buttons">
             <a href="../index.html" class="button">Finalizar</a>
         </div>
     </div>
 </body>
+
 </html>

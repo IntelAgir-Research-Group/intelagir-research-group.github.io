@@ -27,6 +27,54 @@ h1 {
     margin-top: 20px;
 }
 
+header {
+    padding: 1rem;
+    text-align: center;
+}
+
+div.container2 {
+    padding: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+IMG.ArduinoDisplayed {
+    width: 97%;
+    height: 97%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 0.05rem;
+    border-radius: 1rem;
+}
+
+.container_AtivInvest {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ComponentsDisplayed {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+.texto_AtivInvest {
+    display: block;
+}
+
+p {
+    text-align: justify;
+}
+
 /* Estilizando links como botões */
 a.button {
     display: inline-block;
