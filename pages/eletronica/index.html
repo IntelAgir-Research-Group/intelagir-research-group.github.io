@@ -1,123 +1,23 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conteúdos de Eletrônica Básica</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-
-        h1 {
-            text-align: center;
-            margin-top: 20px;
-        }
-
-        #student-name {
-            display: block;
-            margin: 20px auto;
-            padding: 10px;
-            width: 80%;
-            max-width: 300px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            font-size: 16px;
-            box-sizing: border-box;
-        }
-
-        #content-list {
-            list-style-type: none;
-            padding: 0;
-            margin: 20px auto;
-            width: 80%;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        #content-list li {
-            border-bottom: 1px solid #eee;
-            padding-left: 20px; /* Adiciona recuo para todos os itens da lista */
-        }
-
-        #content-list li:last-child {
-            border-bottom: none;
-        }
-
-        #content-list li a {
-            display: block;
-            padding: 10px;
-            text-decoration: none;
-            color: #333;
-        }
-
-        #content-list li a:hover {
-            background-color: #f0f0f0;
-        }
-
-        .disabled {
-            pointer-events: none;
-            color: gray;
-        }
-
-        .visited {
-            color: green;
-        }
-
-        .subcontent {
-            padding-left: 20px; /* Adiciona recuo apenas para os subitens da lista */
-        }
-
-        #report-btn {
-            display: block;
-            margin: 20px auto;
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        #report-btn:hover {
-            background-color: #0056b3;
-        }
-
-        #clear-log-btn {
-            display: block;
-            margin: 20px auto;
-            padding: 10px 20px;
-            background-color: #dc3545;
-            color: #fff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        #clear-log-btn:hover {
-            background-color: #c82333;
-        }
-    </style>
+    <link rel="stylesheet" href="../css/estilo-principal.css">
+    <!--Caso a estilização da página inicial não funcione, use o caminho a seguir-->
+    <!--<link rel="stylesheet" href="css/estilo-principal.css">-->
 </head>
+
 <body>
     <h1>Conteúdos de Eletrônica Básica</h1>
     <input type="text" id="student-name" onchange="setStudentName()" placeholder="Digite seu nome">
     <ol id="content-list">
         <li><a href="tutoriais/tutorial1.html" id="content1">Conteúdo 1 - Circuito Elétrico Simples com Arduino</a></li>
-        <!--<li><p id="content2">&nbsp;&nbsp;Conteúdo 2</p>-->
-        <li><a href="tutoriais/tutorial2_sub1.html" id="content2_1">Conteúdo 2 - Eletrônica com Arduino</a></li>
-        <li><a href="tutoriais/tutorial2_sub2.html" id="content2_2">Conteúdo 3 - Sensores: Sensor Luminosidade (LDR)</a></li>
-            <ul>
-                <!--<li><a href="tutoriais/tutorial2_sub1.html" id="content2_1">Subconteúdo 1</a></li>
-                <li><a href="tutoriais/tutorial2_sub2.html" id="content2_2">Subconteúdo 2</a></li>-->
-            </ul>
-        </li>
-        <li><a href="tutoriais/tutorial3.html" id="content3">Conteúdo 4 - Sensores: Sensor de Temperatura TMP36</a></li>
+        <li><a href="tutoriais/tutorial2.html" id="content2">Conteúdo 2 - Eletrônica com Arduino</a></li>
+        <li><a href="tutoriais/tutorial3.html" id="content3">Conteúdo 3 - Sensores: Sensor Luminosidade (LDR)</a></li>
+        <li><a href="tutoriais/tutorial4.html" id="content4">Conteúdo 4 - Sensores: Sensor de Temperatura TMP36</a></li>
         <!-- Adicione mais itens conforme necessário -->
     </ol>
 
@@ -127,5 +27,5 @@
     <script src="js/dinamico-principal.js"></script>
     <script src="js/dinamico.js"></script>
 </body>
-</html>
 
+</html>
