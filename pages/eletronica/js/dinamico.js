@@ -1,9 +1,9 @@
 // Lista de URLs dos tutoriais
 const tutorialUrls = [
     "tutoriais/tutorial1.html",
-    "tutoriais/tutorial2_sub1.html",
-    "tutoriais/tutorial2_sub2.html",
-    "tutoriais/tutorial3.html"
+    "tutoriais/tutorial2.html",
+    "tutoriais/tutorial3.html",
+    "tutoriais/tutorial4.html"
     // Adicione mais URLs conforme necessário
 ];
 
