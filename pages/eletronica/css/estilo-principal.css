@@ -66,10 +66,16 @@ h1 {
     padding-left: 20px; /* Adiciona recuo apenas para os subitens da lista */
 }
 
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
 #report-btn {
     display: block;
     margin: 20px auto;
-    padding: 10px 20px;
+    padding: 10px 10px;
     background-color: #007bff;
     color: #fff;
     border: none;
