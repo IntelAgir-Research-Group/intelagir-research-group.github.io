@@ -15,7 +15,7 @@ team:
     desc: Adjunct Associate Professor
     website: #
     url: #
-    - name: Dr. Paulo Junior Varela
+  - name: Dr. Paulo Junior Varela
     img: /img/people/varela.jpeg
     desc: Adjunct Associate Professor
     website: #
