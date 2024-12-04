@@ -10,13 +10,13 @@ team:
     url: https://michelalbonico.github.io/
     github: https://github.com/michelalbonico
     twitter: https://twitter.com/michelalbonico
-  - name: Dr. Paulo Junior Varela
-    img: /img/people/varela.jpeg
+  - name: Dr. Adair José Rohling (Head)
+    img: /img/people/adair.jpg
     desc: Adjunct Associate Professor
     website: #
     url: #
-  - name: Dr. Adair José Rohling
-    img: /img/people/noimage.jpeg
+    - name: Dr. Paulo Junior Varela
+    img: /img/people/varela.jpeg
     desc: Adjunct Associate Professor
     website: #
     url: #
